@@ -5,8 +5,12 @@ This project focuses on automating the fact-checking process for verifying open-
 The complete  dataset is located in RECTIFY folder in excel file 'Dataset_with_evidences.xlsx'. The dataset consists of open-domain claims with meta-data which can be verified against expert-written justification article. We also provide seperate evidence corpus in file evidence_corpus for further analysis. 
 
 
+## Environment:
+we perform all the experiment on Google colab with python 3.7 installed. Install 
 
-# End-to-end framework
+
+
+# End-to-end CREDIFY Framework
 The proposed end-to-end framework CREDIFY consists of three modules : passage retrieval , sentence selection and veracity prediction. The following sections describe the detail of modules for implementing End-to-end experiment. 
 
 
@@ -30,15 +34,9 @@ We also provide gold standard evidence in our dataset . The model retrieves  the
 In this experiment, we analyze the impact of finetunning on natural language inferencing models. We compare the performance  of these models gold standard evidence sentence  and claim   by fine tunning  and without fine-tunning. The folder  \GitHub Repositary\Experiments\Veracity_level_evaluation contains this experiment. Place the original dataset in this folder before performing this experiment.  
 
 
-**3). Contrastive Data Augmentation **
+**3). Contrastive Data Augmentation**
 
-This contrastive augmentation technique increases the scale, capturing better insights and generalizing the patterns of negative claims. 
-
-
-
-
-
-
+This contrastive augmentation technique increases the scale, capturing better insights and generalizing the patterns of negative claims. The file Augmented_Data_Generation_file.ipynb generates the negative claim. The results of the augmented dataset after converting into json formated are provided in aug_results file. The Augmented_entailment.ipynb file in \GitHub Repositary\Experiments\Contrastive Data Augmentation folder performs Entailment classification  with contrastive data augmentation.  
 
 
 
