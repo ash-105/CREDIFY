@@ -1,0 +1,2347 @@
+[
+ {
+  "Claim": "Asif Zardari has announced support for Imran Khan, saying Shehbaz Sharif cannot lead Pakistan",
+  "evidence": "Asif Zardari has not announced support for Khan, nor has he said Sharif cannot lead Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "A video shows a Punjab Police officer “misbehaving” and “insulting” an older woman amid a recent crackdown by authorities following protests across Pakistan against the 9 May arrest of Imran Khan.",
+  "evidence": "The video is not recent, nor does it have anything to do with the May 2023 crackdown by Punjab Police and they were not misbehaving and insulting an older women. ",
+  "label": 0
+ },
+ {
+  "Claim": "Video shows Akshay Kumar condemning Imran Khan's arrest",
+  "evidence": "We found that the viral clip has been digitally altered by adding Kumar condemning the arrest of imran Khan as Akshay kumar was not condemn the arrest of imran khan",
+  "label": 0
+ },
+ {
+  "Claim": "Former prime minister and Pakistan Tehreek-e-Insaf (PTI) chief Imran Khan has died.",
+  "evidence": "Prime Minister Shehbaz Sharif on Sunday slammed Pakistan Tehreek-e-Insaf (PTI) Chairman Imran Khan for launching a \"vile, sinister and malicious\" campaign against Chief of Army Staff (COAS) General Asim Munir",
+  "label": 0
+ },
+ {
+  "Claim": "Agreement signed between detained ex-Pak PM Imran Khan, Pakistan government and US ambassador with bizarre “no-rape” conditions",
+  "evidence": "A fabricated document that claims to show an agreement signed between former Pakistan PM and chairman of Pakistan Tehreek-e-Insaaf (PTI) Imran Khan and the government of Pakistan is going viral online. ",
+  "label": 0
+ },
+ {
+  "Claim": "sri Lanka to gift two female elephants to Pakistan !!",
+  "evidence": "Sri Lanka Honorary Consul Yasin Joya denied making a statement regarding Sri Lankan government’s willingness to gift two elephants to Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "US President Joe Biden has allocated $500,000 to “transgender Pakistani youth English lessons”.",
+  "evidence": "A Notice of Funding Opportunity (NOFO) details a potential programme to be created by eligible partners for the professional development of English teachers from non-mainstream institutions, novice English teachers, transgender youth, as well as Afghan teachers, students, and young professionals in Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "New Zealand cricket commentator Simon Doull says living in Pakistan is like living in jail",
+  "evidence": "The simon doull new zealand cricketer said I love my time in Pakistan it's not like living in jail",
+  "label": 0
+ },
+ {
+  "Claim": "Astrologists and geologists predict that a massive earthquake similar to the quake that hit Turkey on Monday will strike India and Pakistan in 15 days.",
+  "evidence": "No scientists have ever predicted a major earthquake, so there's no chance of earthquake In pakistan and india",
+  "label": 0
+ },
+ {
+  "Claim": "Gwadar has a cricket stadium",
+  "evidence": "Gwadar or Gwadar is a port city in Pakistan and is located on the southwestern coast of Balochistan",
+  "label": 0
+ },
+ {
+  "Claim": "Christian man, Mohammad Issa lynched in Pakistan for blasphemy",
+  "evidence": "The man accused of blasphemy mohammad Issa is actually a Muslim man named Muhammad Waris, who was in his mid-30s and is not christian. ",
+  "label": 0
+ },
+ {
+  "Claim": "Foreign sponsor plans exit from Shell Pakistan by selling all their shares.",
+  "evidence": "Foreign sponsor plans not  exiting from Shell Pakistan by selling all their shares.",
+  "label": 1
+ },
+ {
+  "Claim": "joe biden pushing India to seal drone deal",
+  "evidence": "joe biden pushing India to seal drone deal",
+  "label": 1
+ },
+ {
+  "Claim": "civil Saudi aviation security team visits Multan, Lahore airports",
+  "evidence": "The Directorate of Security (Regulatory) and Lahore Airport Administration welcomed the Saudi delegation",
+  "label": 1
+ },
+ {
+  "Claim": "Sri Lankan doctors remove ‘world’s largest kidney stone’",
+  "evidence": "Sri Lankan military doctors have removed what is now recorded as the world’s largest kidney stone from a 62-year-old retired soldier",
+  "label": 1
+ },
+ {
+  "Claim": "PM’s visit Azerbaijan to boost bilateral ties",
+  "evidence": "pm shahbaz sharif on Wednesday reached Azerbaijan for a two-day official visit with an aim to boost bilateral ties",
+  "label": 1
+ },
+ {
+  "Claim": "I'm not going to consider a second marriage, says Shoaib Akhtar",
+  "evidence": "former cricketer Shoaib Akhtar doesn't want to get remarried second time",
+  "label": 1
+ },
+ {
+  "Claim": "PM Shahbaz meets world leaders including Putin, Raisi on sidelines of SCO summit in Uzbekistan",
+  "evidence": "PM Shahbaz on Thursday met world leaders including Russian President Vladimir Putin .",
+  "label": 1
+ },
+ {
+  "Claim": "lady doctor DR yasra saqib actually drink human blood in Rawalpindi",
+  "evidence": "fake news led the lady doctor Dr Yasra Saqib and her family to suffer extreme mental trauma after being labelled as a blood-drinking individual like a vampire",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan complete extraction of Russian oil at Karachi port",
+  "evidence": "Pakistan has completed the transfer of crude oil from a Russian ship that reached Karachi port with over 45,000 metric tons of oil, earlier on Sunday.",
+  "label": 1
+ },
+ {
+  "Claim": "CTD kills four TTP terrorists in Balochistan",
+  "evidence": "CTD kills four TTP terrorists in Balochistan",
+  "label": 1
+ },
+ {
+  "Claim": "UN assures full support to Pakistan to tackle cyclone Biporjoy",
+  "evidence": "The UN has assured full support to help Pakistan in dealing with the impacts of the approaching cyclone Biporjoy.",
+  "label": 1
+ },
+ {
+  "Claim": "Two passengers offloaded for travelling to Canada over fake documents",
+  "evidence": "FIA immigration has offloaded two passengers for travelling on fake documents to Canada Karachi airport",
+  "label": 1
+ },
+ {
+  "Claim": "Google's First Office Opened, Location: Sector G-9, Islamabad, Pakistan.",
+  "evidence": "Google has not opened its first office in Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "Monkeys are swimming in the pool at the Islamabad Marriott Hotel.",
+  "evidence": "The claim is about monkey swimming in marriot is false and is not from pakistan .",
+  "label": 0
+ },
+ {
+  "Claim": "The PSL has been postponed following an attack on the Karachi police chief’s office on 17 February 2023. The Asia Cup cricket tournament is moving out of Pakistan.",
+  "evidence": "The Pakistan Super League has not been postponed after the Karachi Police Office attack",
+  "label": 0
+ },
+ {
+  "Claim": "Virat Kohli abused Pakistan after it lost against England during T20 World Cup",
+  "evidence": "A morphed screenshot of an Instagram story by Indian cricketer Virat Kohli mocking Pakistan for losing the final T20 World Cup match against England is being shared on social media",
+  "label": 0
+ },
+ {
+  "Claim": "The viral video shows Zimbabwe's news anchor making fun of Pakistan after Zimbabwe defeated Pakistan in T20 match",
+  "evidence": "This viral video of zimbabwe's news anchor is a Ghanaian TV presenter , and is not making fun of Pakistan after Zimbabwe defeated Pakistan in T20 match",
+  "label": 0
+ },
+ {
+  "Claim": "Dhoni Greeted With 'Boom Boom Afridi' recently in 2019",
+  "evidence": "The 19 seconds clips of Pakistani News channel which has a video of people chanting the name of Pakistan cricketer Shahid Afridi by saying 'Boom Boom Afridi' when greeting dhoni is not recent and is from 2017 year",
+  "label": 0
+ },
+ {
+  "Claim": "Man accused of stealing peacock has been sentenced to 10 years",
+  "evidence": "Two senior police officers, privy to the developments, have confirmed to Geo Fact Check that the man, who has been accused of stealing a peacock  has not been sentenced to 10 years",
+  "label": 0
+ },
+ {
+  "Claim": "selling wheat grain illegal in Punjab",
+  "evidence": "A wheat grain supplier and officials from the Punjab food department confirm that no such decision has been taken nor any such notification or graphic has been issued by the government so this claim is fake.",
+  "label": 0
+ },
+ {
+  "Claim": "Over 9,000 PTI supporters and members have been arrested post the May 9 attack",
+  "evidence": "More than 9000 PTI supporters and members have been arrested post the May 9 attack, show official documents",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistani authorities monitoring WhatsApp chats under the Army Secret Act?",
+  "evidence": "There is no such law as the Army Secret Act in Pakistan, nor is there any law that allows the monitoring of WhatsApp groups in the country,",
+  "label": 0
+ },
+ {
+  "Claim": "The land on which the Al-Qadir University is located is worth less than Rs 10 million",
+  "evidence": "Local revenue officials and property dealers estimate the price of the 458 kanals and 58 square feet of land, which was donated to theAL-Qadir University in 2019, to fall between Rs 100 million to nearly Rs 300 million",
+  "label": 0
+ },
+ {
+  "Claim": "May 9 a violent mob burnt down a fighter jet, flown by war hero and honored Pakistani pilot M.M. Alam, in Mianwali, Punjab.",
+  "evidence": "The aircraft set on fire on 9 May was a replica of a F-6 fighter jet and was not flown by honored Pakistani pilot M",
+  "label": 0
+ },
+ {
+  "Claim": "trucks were smuggling sugar and cement into Afghanistan from pakistan on 18 april",
+  "evidence": "trucks were legally transporting sugar and cement across the Torkham border into Afghanistan on April 18 not smuggling",
+  "label": 0
+ },
+ {
+  "Claim": "500 abandoned bodies were recovered from Punjab Nishtar Hospital",
+  "evidence": "there were 4 bodies on the rooftop of Punjab Nishtar Hospital, not 200 or 500",
+  "label": 0
+ },
+ {
+  "Claim": "Ruet-e-Hilal Committee have 3,400 employees have an annual expenditure of Rs7.43 billion.",
+  "evidence": "Ruet-e-Hilal Committee have only 21 employees not 3,400 and none of them receive a salary, confirm officials. ",
+  "label": 0
+ },
+ {
+  "Claim": "Asif Ali Zardari featured in a Netherlands school book",
+  "evidence": "The Netherlands' Ministry of Education k that the photo circulating online regarding asif zardari is true and is from their textbook of a four-year secondary vocational education program in the country",
+  "label": 1
+ },
+ {
+  "Claim": "students of public and private schools in Gujranwala to learn about the Pakistan Army",
+  "evidence": "The District Education Authority in Gujranwala, Punjab, which issued the notification, has confirmed that it is indeed authentic",
+  "label": 1
+ },
+ {
+  "Claim": "judge of the top court of Pakistan earns over Rs 1.7 million per month, including benefits",
+  "evidence": "It is true, the chief justice of the Supreme Court of Pakistan at present earns a salary of over Rs 1.7 million monthly, including perks and privileges",
+  "label": 1
+ },
+ {
+  "Claim": "Three police officers were suspended for taking selfie with PTI Zartaj Gul.",
+  "evidence": "This claim is true that three police officers have confirmed that three police officers were suspended for taking selfie with PTI’s Zartaj Gul",
+  "label": 1
+ },
+ {
+  "Claim": "Police ban transgenders in Quetta from public places post-midnight",
+  "evidence": "Three police officials in Quetta confirmed that the transgender community in Quetta has indeed been restricted from visiting certain public areas post-midnight",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan has cancelled the medical licensing examination for doctors",
+  "evidence": "A press release issued by the government-run Pakistan Medical Council confirmed that medical graduated doctors are no longer required to sit for the National Licensing Examination and cancelled them",
+  "label": 1
+ },
+ {
+  "Claim": "Punjab finished the ban on kite-flying activities",
+  "evidence": "government of punjab which came to power on January 23, has not made any decision to allow kite-flying activities",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan increased the passport fee to Rs 70,000",
+  "evidence": "The service fee for a new or renewal of a Pakistani passport has not been increased to 70,000",
+  "label": 0
+ },
+ {
+  "Claim": "Putin is reading Imran Khan's autobiography",
+  "evidence": "The picture of the Russian president Vladimir Putin was taken on June 14, 2016, in Moscow, where he can be seen reading books about Russia, not about Imran Khan",
+  "label": 0
+ },
+ {
+  "Claim": "Maulana Tariq Jamil’s bank accounts sealed by Federal Investigation Agency (FIA)",
+  "evidence": "The government-run Federal Investigation Agency (FIA) is neither probing the bank details of Tariq Jamil nor has it sealed any of his bank accounts in Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "More than 800,000 migrated out of Pakistan in 2022, highest in six years",
+  "evidence": "More than 800,000 Pakistanis have migrated out of the country in the year 2022, which is the highest since 2016 and six years",
+  "label": 1
+ },
+ {
+  "Claim": "railway bogies imported from China are faulty",
+  "evidence": "Three officials of the Pakistan Railways confirmed that the bogies were operational , ran for 2,500 kilometres in the country and are not faulty",
+  "label": 0
+ },
+ {
+  "Claim": "Islamabad-Karachi air tickets had increased to Rs80,000",
+  "evidence": "Travel agents and airlines’ staff confirm that in these days due to winter vacations at schools, airfare did jack up to Rs80,000.",
+  "label": 1
+ },
+ {
+  "Claim": "The police in Lahore have arrested two men, who were selling the meat of frogs to eateries in the city,",
+  "evidence": "Punjab Food Authority did not seize frog meat in Lahore as the claim is false",
+  "label": 0
+ },
+ {
+  "Claim": "Video of mouse nibbling on cake is not from Balochistan",
+  "evidence": "Video of mouse nibbling on cake is not from Balochistan and has confirmed that the “video is from some meeting",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan had won the XII FIP Polo World Championship held in the United States in November",
+  "evidence": "“Pakistan did not win XII FIP Polo World Championship held in the United States in November” an official of the Association confirmed“But it did defeat Mexico in a position match",
+  "label": 0
+ },
+ {
+  "Claim": "new drug, marketed as Tzield, can cure and prevent diabetes for three years.",
+  "evidence": "The drug, Tzield, does not cure or prevent diabetes, it only delays the onset of full-blown type 1 diabetes for around two years",
+  "label": 0
+ },
+ {
+  "Claim": "thousands of Muslims offering prayers in a Qatar football stadium",
+  "evidence": "A video has been viewed more than one million times in social media posts that falsely claim it shows people praying in a stadium during the Qatar World Cup",
+  "label": 0
+ },
+ {
+  "Claim": "Law amended to allow private individuals to use KP's helicopter",
+  "evidence": "The news circulating on social media about the Law amended to allow private individuals to use KP's helicopter is true",
+  "label": 1
+ },
+ {
+  "Claim": "Punjab is buying 93 luxury vehicles, including Fortuner SUVs, for bureaucrats",
+  "evidence": "the Punjab assembly’s standing committee of cabinet on finance and development has directed that Rs989 million be spent to purchase 93 luxury car like fortuners SUV'S for bureaucrats in the province.",
+  "label": 1
+ },
+ {
+  "Claim": "a college in Sialkot made it mandatory for students to attend Imran Khan’s speech",
+  "evidence": "the principal at the Government Jinnah Islamia College that he issued a notification making it mandatory for students to hear and attend Imran Khan’s talk",
+  "label": 1
+ },
+ {
+  "Claim": "Child in Quetta died due to polio vaccine.",
+  "evidence": "Child in Quetta died due to pneumonia not polio vaccine",
+  "label": 0
+ },
+ {
+  "Claim": "health insurance program, introduced by the Pakistan Tehreek-e-Insaf government in the country, has been shut down by the new government.",
+  "evidence": "the national health insurance program, known as the Sehat Card by Pakistan Tehreek-e-Insaf government, has not been suspended in any part of Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "Shaukat Khanum Hospital is the second organisation in world to get \" Enterprise Accreditation\"",
+  "evidence": "Shaukat Khanum Hospital is the second organisation in the world to be given “Enterprise Accreditation” by the Joint Commission International",
+  "label": 1
+ },
+ {
+  "Claim": "No salaries have been disbursed to PTI MNAs since resignations",
+  "evidence": "Mir Muhammad Shah, media officer at the national assembly, confirmed that No salaries have been disbursed to PTI MNAs since resignation",
+  "label": 1
+ },
+ {
+  "Claim": "employee Mohammed Sharif Ahmed working at Bahanaga railway station is responsible for indian train disaster.",
+  "evidence": "there is no employee called Mohammed Sharif Ahmed working at Bahanaga railway station, according to JK Nayak, an official at the terminal",
+  "label": 0
+ },
+ {
+  "Claim": "PM 'praising Indian Congress' went viral after party Karnataka wins",
+  "evidence": "PM praising Indian Congress is a fake tweet and is not praising and congratulating karnataka",
+  "label": 0
+ },
+ {
+  "Claim": "avalanche in northeastern India, not resort in Pakistan",
+  "evidence": "Video shows avalanche in northeastern India, not resort in Pakistan",
+  "label": 1
+ },
+ {
+  "Claim": "pakistani graved locked to prevent rape",
+  "evidence": "Locked grave photo from India falsely shared as Pakistan 'anti-rape gate', as it is from india not from pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "Mahira Khan survives horse riding accident",
+  "evidence": "Beloved Pakistani star Mahira Khan Said that she had survived a serious accident while riding a horse",
+  "label": 1
+ },
+ {
+  "Claim": "Khawaja Asif’s daughter dancing wildly in new viral video",
+  "evidence": "The video Khawaja Asif's daughter went viral is fake and not true , some social media users debunked the picture which was reportedly from a dance party from another country",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan Railways import faulty high-speed rail coaches from China",
+  "evidence": "the Pakistan Railway spokesperson said all the coaches from china are fully compatible with the railway system of the country and are not faulty",
+  "label": 0
+ },
+ {
+  "Claim": "Dr Aafia Siddiqui passed away inside a US prison",
+  "evidence": "These all are fake rumours as Dr Aafia Siddiqui is alive not passed away.",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistani women perform Hajj without mehram",
+  "evidence": "In a major development, the Council of Islamic Ideology (CII) has granted permission and allowed women to perform Hajj pilgrimage without a mehram",
+  "label": 1
+ },
+ {
+  "Claim": "TikToker girl ‘gang raped’ in Sindh’s Matiari district",
+  "evidence": "TikToker girl ‘gang raped’ in Sindh’s Matiari district",
+  "label": 1
+ },
+ {
+  "Claim": "Babar Azam drops one position in latest ICC Test rankings",
+  "evidence": "Babar Azam, the captain of Pakistan, fell to fifth place in the International Cricket Council (ICC) rankings after losing and dropping one position in the category for Test batsmen",
+  "label": 1
+ },
+ {
+  "Claim": "Youtuber Major (r) Adil Raja released after detained by British police",
+  "evidence": "Controversial Youtuber Adil Farooq Raja, a retired major of the Pakistan Army was released hours after being detained by the British police, his lawyer said on Wednesday",
+  "label": 1
+ },
+ {
+  "Claim": "Yamaha motorcycle installment plans with no markup",
+  "evidence": "Yamaha Motors has once more introduced a plan with no markup programme for clients as part of its simple installment bike purchase programme",
+  "label": 1
+ },
+ {
+  "Claim": "TikToker Sundal Khattak sent to jail in Hareem Shah video leaks case",
+  "evidence": "A district and sessions court in Islamabad sent controversial TikToker Sundal Khattak to jail on judicial remand for leaking hareem shah videos rejecting police request for her physical remand",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan's first air taxi service to be launched on June 18",
+  "evidence": "Pakistan's first air taxi service will be launched on June 18 and the service will be launched by a private company",
+  "label": 1
+ },
+ {
+  "Claim": "Polio virus found in environmental sample from Karachi",
+  "evidence": "The National Operations Centre for Polio Eradication has confirmed that polio virus was found in a sample of the environment from karachi city",
+  "label": 1
+ },
+ {
+  "Claim": "Lahore high court bans all kinds of forced child labour",
+  "evidence": "The Lahore High Court (LHC) on Monday imposed ban of all kinds of forced child labour, including their hiring as domestic help",
+  "label": 1
+ },
+ {
+  "Claim": "Aftab Iqbal left Pakistan",
+  "evidence": "Popular Pakistani TV host Aftab Iqbal has joined the long list of media persons who have left Pakistan in recent days",
+  "label": 1
+ },
+ {
+  "Claim": "Rawalpindi police arrest man for murdering three transgender persons after rape",
+  "evidence": "Police have arrested a man for allegedly killing three transgender persons after rape in Rawalpindi and Rahim Yar Khan",
+  "label": 1
+ },
+ {
+  "Claim": "Woman gives birth on plane mid-flight forcing emergency landing at Karachi airport",
+  "evidence": "A plane of the Qatar Airlines made an emergency landing at the Karachi airport after a woman gave birth mid-flight",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan avalanche kills 11 people from nomadic tribe",
+  "evidence": "At least 11 people from a nomadic tribe, including a four-year-old boy, have been killed in an avalanche in Pakistan",
+  "label": 1
+ },
+ {
+  "Claim": "At least 209 people from Pakistan in Greece boat tragedy",
+  "evidence": "Pakistan’s Federal Investigation Agency says at least 209 people from pakistan and kashmir are among the victims of one the worst sea disasters in the greece boat tragedy",
+  "label": 1
+ },
+ {
+  "Claim": "Islamist militants kill six people at energy plant in Pakistan",
+  "evidence": "police confirmed Islamist militants stormed natural gas and oil production energy plant in northwest Pakistan on Tuesday, killing six people",
+  "label": 1
+ },
+ {
+  "Claim": "China, Pakistan, Iran hold counter-terrorism talks in Beijing",
+  "evidence": "China, Pakistan and Iran held their first trilateral meeting on counter-terrorism in Beijing on Wednesday, the Chinese foreign ministry said in a statement",
+  "label": 1
+ },
+ {
+  "Claim": "President of Pakistan ex-PM Imran Khan's party arrested in Lahore on 9 may 2023",
+  "evidence": "The president of former Pakistani prime minister Imran Khan's party was arrested in the eastern city of Lahore on 9 may 2023 Thursday on charges of corruption, a government official said",
+  "label": 1
+ },
+ {
+  "Claim": "Imran Khan’s political games leave him isolated as Pakistan army destroys party",
+  "evidence": "Pakistan is considering banning former Prime Minister Imran Khan’s party for attacking the state, says the defence minister, a decision likely to enrage his supporters and exacerbate his confrontation with the military establishment",
+  "label": 1
+ },
+ {
+  "Claim": "Boat that sank off Greek coast had not moved for hours, data suggests",
+  "evidence": "Tracking data suggests an overcrowded fishing boat that sank off the Greek coast last week with the feared loss of hundreds of lives had not moved for several hours before it capsized, contradicting accounts from the Hellenic coast guard",
+  "label": 1
+ },
+ {
+  "Claim": "Shootout in northwest Pakistan at a security checkpoint, along Afghan border, kills 3 soldiers, 3 militants, Pakistan's army says",
+  "evidence": "Pakistan's army says militants attacked a security checkpoint in the country's northwest triggering a shootout that 3 soldiers and 3 dead",
+  "label": 1
+ },
+ {
+  "Claim": "Hamid Mir said \"I literally cannot say Imran Khan’s name on Pakistani TV this madness has to end\"",
+  "evidence": "Hamid Mir further said we are no longer allowed to mention his name or show his picture on Pakistani TV channels",
+  "label": 1
+ },
+ {
+  "Claim": "At least 11 killed in Pakistan disaster near the Shounter Pass in northern Pakistan",
+  "evidence": "Police confirmed at least 11 killed including one women and four children in the disaster near the Shounter Pass in northern Pakistan,",
+  "label": 1
+ },
+ {
+  "Claim": "at least 25 people killed as heavy rains hit and pounded Pakistan",
+  "evidence": "Heavy rains pounded Pakistan’s northwest regions collapsing houses and killing at least 25 people",
+  "label": 1
+ },
+ {
+  "Claim": "Asian Americans are at high risk and rates for diabetes.",
+  "evidence": "Asian Americans and Pacific Islanders have higher rates of diabetes than whites, and are prone to developing Type 2 diabetes at younger ages and lower body weights than the general U",
+  "label": 1
+ },
+ {
+  "Claim": "China and Saudi Arabia boycott G20 meeting held by India in Kashmir",
+  "evidence": "India’s presidency of the G20 group of leading nations has become mired in controversy China and Saudi Arabia boycotted a meeting staged in Kashmir",
+  "label": 1
+ },
+ {
+  "Claim": "lahore pakistan is in the top 20 Cities With the Worst Air Pollution Worldwide",
+  "evidence": "The city with the highest air pollution levels last year was Lahore in Pakistan",
+  "label": 1
+ },
+ {
+  "Claim": "100,000 evacuated as fierce cyclone threatens India and Pakistan",
+  "evidence": "More than 100,000 people had been evacuated in India and Pakistan ahead of the expected landfall Thursday of a fierce cyclone which could devastate homes and tear down power lines",
+  "label": 1
+ },
+ {
+  "Claim": "The government of Pakistan PM Sharif requests IMF release $1.1bn tranche",
+  "evidence": "The government of Pakistan PM Sharif has made yet another appeal to the International Monetary Fund (IMF) to release the $1",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan minister says Imran Khan should be tried in military court",
+  "evidence": "Rana Sanaullah said Pakistan’s former Prime Minister Imran Khan should be tried in a military court for his role in the protests that erupted across the country",
+  "label": 1
+ },
+ {
+  "Claim": "Khawaja Asif says Pakistan considering banning Imran Khan’s party.",
+  "evidence": "Pakistan is considering banning former Prime Minister Imran Khan’s party for attacking the state, says the defence minister, a decision likely to enrage his supporters and exacerbate his confrontation with the military establishment",
+  "label": 1
+ },
+ {
+  "Claim": "Soldiers among four killed in northwest Pakistan suicide bombing",
+  "evidence": "A suicide bomber has targeted a security checkpoint in northwestern Pakistan, killing four people including two soldiers, a policeman and a civilian , security officials said",
+  "label": 1
+ },
+ {
+  "Claim": "police said Pakistan ex-PM Imran Khan accused in lawyer murder case",
+  "evidence": "Former Pakistani Prime Minister Imran Khan has been formally named in connection with the killing of a lawyer who accused him of high treason",
+  "label": 1
+ },
+ {
+  "Claim": "Amnesty calls for urgent global action to mitigate heatwaves in Pakistan",
+  "evidence": "A prominent human rights organisation Amnesty has issued an urgent plea for global action to protect Pakistan from extreme heat waves, saying the South Asian country is at the “frontline of the climate crisis”",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan gets first shipment of Russian crude oil under discount deal",
+  "evidence": "Pakistan's Prime Minister Shehbaz Sharif on Sunday said the first cargo of discounted Russian crude oil arranged under a new deal struck between Islamabad and Moscow had arrived in Karachi",
+  "label": 1
+ },
+ {
+  "Claim": "Najam Sethi pulls out of race to be PCB chairman",
+  "evidence": "Najam Sethi has effectively stepped down as head of the PCB, after pulling himself out of the race to become the next board chairman",
+  "label": 1
+ },
+ {
+  "Claim": "Imran Khan rejects claims he is not trying to flee the country and has No plans to travel abroad.",
+  "evidence": "Former Pakistani prime minister Imran Khan rejected claims that he was trying to flee the country and said he had no plan to travel abroad even on a vacation",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan Effectively Bans Ex-PM Imran Khan from Broadcasting on TV",
+  "evidence": "Broadcast journalists in Pakistan have decried a de facto ban on mentioning or giving airtime to Imran Khan by name or showing his image after a series of directives issued by the country’s media regulator",
+  "label": 1
+ },
+ {
+  "Claim": "Shahbaz sharif urged Nawaz Sharif To Return To Pakistan and be the prime minister of pakistan for Fourth Time.",
+  "evidence": "Pakistan's Prime Minister Shahbaz Sharif today urged PML N chief Nawaz Sharif to come back and lead the election campaign in the country as well as also become the Prime minister for the fourth time",
+  "label": 1
+ },
+ {
+  "Claim": "Taliban claims responsibility for attack in northwest Pakistan, 2 soldiers, 2 militants dead",
+  "evidence": "The Pakistani Taliban has claimed responsibility for an attack in northwest Pakistan that left 2 soldiers and 2 militants dead",
+  "label": 1
+ },
+ {
+  "Claim": "Shahzada Dawood, one of the passengers who died in the Titan submersible, was the vice-chairman of the World Economic Forum.",
+  "evidence": "Titan passenger Shahzada Dawood was not the World Economic Forum’s vice chairman. ",
+  "label": 0
+ },
+ {
+  "Claim": "OceanGate submersible on its way to the Titanic wreckage site was found empty.",
+  "evidence": "CNN Screenshot Claiming OceanGate Submersible \"Found Empty\" Is Fake. ",
+  "label": 0
+ },
+ {
+  "Claim": "The Titan submersible was found June 21 with all five passengers alive.",
+  "evidence": "A recent Facebook post declared the five people aboard the Titan submersible dead, reporting that \"the world is mourning millionaires lost in the depths of the sea have been found dead\" ,But that’s wrong.  ",
+  "label": 0
+ },
+ {
+  "Claim": "Pak PM shahbaz sharif congratulated Congress over Karnataka victory",
+  "evidence": "It apparently shows the Prime Minister shahbaz sharif expressing his gratitude to the people of Karnataka for victory which is totally a fake news as he did not congratulated congress",
+  "label": 0
+ },
+ {
+  "Claim": "Malala Yousafzai met with the son of Israel's Defence Minister.",
+  "evidence": "The claim is false; the man in the photo is in fact Faisal Iqbal, a well known Pakistani cricket player and Malala Yousafzai Was Not Pictured With Israeli Defence Minister's Son",
+  "label": 0
+ },
+ {
+  "Claim": "Marriyum Aurangzeb heckled by Pakistanis in London",
+  "evidence": "A video of Pakistan's Information Minister Marriyum Aurangzeb heckled by Imran Khan supporters in London, is being shared by Indian social media users claiming she was harassed by Pakistanis in the UK",
+  "label": 1
+ },
+ {
+  "Claim": "Nawaz Sharif’s BA degree is fake",
+  "evidence": "The document circulating online is not the 1968 BA degree educational certificate of former prime minister Nawaz Sharif, but merely an application Sharif sent recently to obtain a copy of his bachelor's certificate",
+  "label": 0
+ },
+ {
+  "Claim": "Geo deleted YouTube videos about Jahangir Tareen",
+  "evidence": "None of the news programs related to Jahangir Khan Tareen and the sugar scandal of 2019 and 2020 have been deleted or removed from the YouTube channel of Geo Television, the broadcaster confirmed",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan’s forest cover only 1.85% which is the lowest in the world",
+  "evidence": "Pakistan’s total forest cover, compared to its geographical area, is 4.6%, which is not the lowest in the world. ",
+  "label": 0
+ },
+ {
+  "Claim": "PML-N's popularity at 70% was even conducted",
+  "evidence": "A survey, which has accumulated thousands of interactions on social media, purportedly shows former prime minister Nawaz Sharif’s popularity rising dramatically , But Fact Check organisation has found no evidence. ",
+  "label": 0
+ },
+ {
+  "Claim": "Murder of four girls after rape in Lyari is probably fake news",
+  "evidence": "a fake report started to do the rounds on social media that five young girls had been murdered after being raped in different areas of Lyari",
+  "label": 0
+ },
+ {
+  "Claim": "Actress Saeeda Imtiaz is dead",
+  "evidence": "Renowned Pakistani actress and former model Saeeda Imtiaz, 32, is alive; her legal advisor said in an Instagram post",
+  "label": 0
+ },
+ {
+  "Claim": "Naseem Shah ask Urvashi Rautela to marry him",
+  "evidence": "A fake video has gone viral in which Naseem Shah is asking if Urvashi Rauteli is ready to marry him",
+  "label": 0
+ },
+ {
+  "Claim": "Kashmiri hackers hack Indian embassy real website on August 15.",
+  "evidence": "The fake news running on different media outlets claims that the official website of the Indian embassy in Cairo (Egypt) was hacked by Kashmiri hackers on August 15 to mark their protest which is not true",
+  "label": 0
+ },
+ {
+  "Claim": "4 people taking Shahada at the hands of Dr. Zakir Naik in FIFA World Cup 2022 in Qatar",
+  "evidence": "Famous Islamic scholar Dr Zakir Naik was invited to visit Qatar during FIFA World Cup 2022 and since then, rumors are running rife on social media that 4 people are embracing Islam and shahadat at his hands which is not true",
+  "label": 0
+ },
+ {
+  "Claim": "Bakhtawar recreating Benazir Bhutto's look for her wedding",
+  "evidence": "Benazir Bhutto’s Nikkah look is not creating by Bakhtawar Bhutto-Zardari's wedding, clarified Amber Varsy, the co-founder of Resham Revaj.",
+  "label": 0
+ },
+ {
+  "Claim": "Leopard attacking dog video is from Pakistan",
+  "evidence": "Leopard attacking dog video is from India, not Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "Bodies of Riphah University students found in Islamabad",
+  "evidence": "In a statement posted to Twitter by islamabad police, Riphah University said that “fake news is circulating about female students bodies of Riphah International University ,No such incident occurred with the university or any student.",
+  "label": 0
+ },
+ {
+  "Claim": "Official notification says there's a holiday on May 25 holiday",
+  "evidence": "Marriyum Aurangzeb on Tuesday rebutted a fake notification circulating in different sections of media regarding a public holiday on May 25",
+  "label": 1
+ },
+ {
+  "Claim": "Mahmood Aslam Died due to health reasons",
+  "evidence": "The “Bulbulay” star Mahmood Aslam is alive and healthy, and has strongly condemned the fake news spiraling online",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistani drone dropped heroin on its side of border",
+  "evidence": "Pakistani drone dropped heroin on its side of border",
+  "label": 1
+ },
+ {
+  "Claim": "PTI’s Hammad Azhar claims father ‘picked up’ by police",
+  "evidence": "The PTI leader further revealed that his father, who already suffers from multiple health conditions, was taken away by the police and unidentified individuals to an undisclosed location",
+  "label": 1
+ },
+ {
+  "Claim": "State Bank of Pakistan issuing Rs10,000 banknotes",
+  "evidence": "The State Bank of Pakistan has responded to fake  rumours circulating on the social media regarding the issuance of Rs10,000 banknotes",
+  "label": 0
+ },
+ {
+  "Claim": "Eid holidays in Pakistan have been extended in pakistan",
+  "evidence": "Eid holidays in Pakistan have been extended by a day to include Wednesday - June 28",
+  "label": 1
+ },
+ {
+  "Claim": "tweet spreading a claim that the child bicycling is none other than “Zardari’s nawasa”",
+  "evidence": "This tweet spreading a false claim that the child bicycling is none other than “Zardari’s nawasa” was responded to by Bakhtawar Bhutto Zardari",
+  "label": 0
+ },
+ {
+  "Claim": "PTI Jamshed Dasti claims a dam in Mohmand district in KP and praised the former government of Imran Khan for constructing it.",
+  "evidence": "However, the pic is of America’s Hoover Dam not from  district in KP",
+  "label": 0
+ },
+ {
+  "Claim": "The documentary “Behind Closed Doors” is coming to Netflix",
+  "evidence": "The documentary “Behind Closed Doors” by an obscure and unknown group is not coming to Netflix",
+  "label": 0
+ },
+ {
+  "Claim": "Canadian university is citing Nawaz Sharif as an example of corruption",
+  "evidence": "Canadian university is not citing Nawaz Sharif as an example of corruption as Deputy National Assembly Speaker Qasim Suri have been claiming it is of a university lecture in Canada where the instructor is allegedly giving an example of Nawaz Sharif in discussing corruption which is incorrect",
+  "label": 0
+ },
+ {
+  "Claim": "Angelina Jolie is on twitter",
+  "evidence": "Angelina Jolie does not have a Twitter account to begin with Hence, this is not her account.",
+  "label": 0
+ },
+ {
+  "Claim": "7 deaths has been reported in last 24 hours in Karachi",
+  "evidence": "A fake news claimed that 7 deaths has been reported in last 24 hours in Karachi ,This is false and incorrect. ",
+  "label": 0
+ },
+ {
+  "Claim": "aid sent by the UK government in the form of flour bags was being sold at a shop in Sindh",
+  "evidence": "A tweet by a lawyer and well known PTI supporter which falsely claimed that aid sent by the UK government in the form of flour bags was being sold at a shop in Sindh which is wrong and incorrrect as UK has not sent any bags of flour for flood victims. ",
+  "label": 0
+ },
+ {
+  "Claim": "a Public Holiday on 25 May 2023",
+  "evidence": "The Federal Government has not announced a public holiday on 25 May 2023 as a fake notification has been circulating on social media declaring that Thursday will be observed as Pakistan Martyrs Day",
+  "label": 0
+ },
+ {
+  "Claim": "Islamabad Winter Vacations Have been Extended",
+  "evidence": "The Ministry of Federal Education and Professional Training on Sunday rejected a \"fake news\" claiming that winter vacation for Islamabad schools has been extended till January 15 due to extreme weather conditions",
+  "label": 0
+ },
+ {
+  "Claim": "Ban on UAE Visa For Pakistanis",
+  "evidence": "The Foreign Office Spokesperson, Mumtaz Zahra Baloch, on Monday confirmed that UAE has not banned the issuance of visa to Pakistanis belonging to certain cities",
+  "label": 0
+ },
+ {
+  "Claim": "Google Play Store Will not Continue to Work in Pakistan After December 1",
+  "evidence": "Google Play Store is not shutting down and it will remain available and continue to work in Pakistan after December 1 regardless of online reports claiming that Google Play Services will remain unavailable in the country",
+  "label": 0
+ },
+ {
+  "Claim": "Facebook is Opening an Office in Pakistan",
+  "evidence": "There are fake reports circulating on social media that Facebook is planning on opening its office in Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "WhatsApp Adding a Third Blue Tick",
+  "evidence": "“WhatsApp is NOT developing a third blue check to detect screenshot,” said WABetaInfo on Twitter",
+  "label": 0
+ },
+ {
+  "Claim": "Saudi Arabia Announces Flexible Installment Plan For Domestic Hajj Pilgrims",
+  "evidence": "Saudi Arabia’s Ministry of Hajj and Umrah has announced an installment plan for domestic Hajj pilgrims for Hajj 2023, which is going to offer three flexible payment options",
+  "label": 1
+ },
+ {
+  "Claim": "ZipTech Allegedly Scams Pakistani Gamers Worth Millions",
+  "evidence": "Muhammad Hassan aka Major Zippy from ZipTech has allegedly scammed Pakistani Gamers of millions of rupees and fled to Turkey",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan Railways to Restore Shalimar Express With Reduced Fares",
+  "evidence": "The Pakistan Railways has announced to revive the high-speed Shalimar Express passenger train with reduced fares after one year of closure",
+  "label": 1
+ },
+ {
+  "Claim": "Two photos show a fishing vessel with migrants capsizing off the coast of southern Greece on 9 June 2023",
+  "evidence": "The photos from May 2016, when a migrant boat capsized off the Libyan coast, have been wrongly linked to the Greece boat tragedy",
+  "label": 0
+ },
+ {
+  "Claim": "A video depicts the arrest of social media activist “Little Imran Khan” by the police.",
+  "evidence": "The full video about social media activist little imran khan boy was not arrested by the police",
+  "label": 0
+ },
+ {
+  "Claim": "A video of waves of water crashing onto a bridge apparently shows Cyclone Biparjoy 2023 damaging in Gujrat, India.",
+  "evidence": "The video went viral in which the water is crashing onto a bridge is actually from 2017, not from 2023 and is wrongly linked with Cyclone Biparjoy near india",
+  "label": 0
+ },
+ {
+  "Claim": "Former president of Pakistan, Asif Ali Zardari, is dead.",
+  "evidence": "On 28 March 2023, a viral tweet expressed sorrow for the death of Asif Ali Zardari, claiming that it has not yet been publicly announced which was fake and wrong",
+  "label": 0
+ },
+ {
+  "Claim": "Imran Khan shared a video as “evidence of the rape of women” who are in police custody after coming out in support of PTI.",
+  "evidence": "A fake account pretending to be affiliated with Imran Khan shared an old video out of context to claim that it shows video evidence of women who support PTI facing sexual violence and rape in police custody",
+  "label": 0
+ },
+ {
+  "Claim": "Khadijah Shah has not been released from jail",
+  "evidence": "imran khan is alive not dead and was presented in the apex court on 11 May 2023 amid tight security",
+  "label": 0
+ },
+ {
+  "Claim": "video show an F-35 jet performing a stunt",
+  "evidence": "The video does not show an F-35 fighter jet performing stunt but a scaled-down RC version of a fighter jet is doing this, On 7 May 2023, Twitter account @clipsthatgohard falsely claiming an F-35 jet performing a stunt in the air",
+  "label": 0
+ },
+ {
+  "Claim": "Screengrab suggesting Saudi Crown Prince refused to meet Sharifs President Moon",
+  "evidence": "news reports and photos show Moon met the prince in Riyadh on January 18, 2022.",
+  "label": 0
+ },
+ {
+  "Claim": "A social media post by geo news suggests that Imran Khan had said an elected prime minister was slapped a year ago today.",
+  "evidence": "The social media post shared by geo news in which imran said about slapping a prime minister is not real and is doctored as the media outlet did not share any such image or report",
+  "label": 0
+ },
+ {
+  "Claim": "Khadija Shah, granddaughter of former COAS Asif Nawaz Janjua, recorded a video endorsing Imran Khan right before surrendering to the police",
+  "evidence": "The viral video is a TikTok of PTI activist Maya Haider, it does not show Khadija Shah. ",
+  "label": 0
+ },
+ {
+  "Claim": "Miftah Ismail blame PDM for 9 May riots",
+  "evidence": "A fabricated statement has been attributed to Miftah Ismail that he blame pdm for 9 may riots",
+  "label": 0
+ },
+ {
+  "Claim": "Taliban leader Mufti Noor Wali Mehsud has been killed",
+  "evidence": "Mufti Noor Wali Mehsud, the chief of Tehreek-e-Taliban Pakistan (TTP), has not been killed in a drone strike in Afghanistan",
+  "label": 0
+ },
+ {
+  "Claim": "member of the Tiger Force received 16 lakhs in reward",
+  "evidence": "Viral Geo news bulletin claiming that a member of the Tiger Force received 16 lakhs in reward is fake as Geo News did not publish this bulletin. ",
+  "label": 0
+ },
+ {
+  "Claim": "A social media post by Geo News suggests that Pakistan Tehreek-e-Insaf’s chief Imran Khan said those who sexually assaulted former minister Ali Amin Gandapur should be ashamed.",
+  "evidence": "Imran Khan did not say Ali Amin Gandapur was sexually assaulted. Khan did not give any such statement. ",
+  "label": 0
+ },
+ {
+  "Claim": "Photo show Imran Khan injured in NAB custody",
+  "evidence": "The photo in which the imran is injured in Nab Custody is unrelated to 9 May incident . ",
+  "label": 0
+ },
+ {
+  "Claim": "Notification of lockdown in Islamabad and Punjab is issued",
+  "evidence": "The federal government and District Magistrate did not announce a lockdown as the notification is doctored.",
+  "label": 0
+ },
+ {
+  "Claim": "Photo show Bilawal honouring Indian soldiers who died in Kargil",
+  "evidence": "Bilawal Bhutto-Zardari did not visit the graves of Indian soldiers who died in the Kargil War against Pakistan during his recent visit to India",
+  "label": 0
+ },
+ {
+  "Claim": "A viral video shows a man dumping goats from a moving truck on Karachi’s Super Highway.",
+  "evidence": "A viral video shows a man dumping goats from a moving truck on Karachi’s Super Highway is not from Karachi, Pakistan but actually is from Maharashtra, India. ",
+  "label": 0
+ },
+ {
+  "Claim": "Grand Mosque’s administration in Makkah share an image of Nawaz Sharif",
+  "evidence": "Grand Mosque’s administration in Makkah does not share an image of Nawaz Sharif",
+  "label": 0
+ },
+ {
+  "Claim": "A mountain of gold has been found in the Euphrates River.",
+  "evidence": "A mountain of gold has not been found in the Euphrates River",
+  "label": 0
+ },
+ {
+  "Claim": "Ten billion rupees out of 21 billion rupees, has been released for the Election Commission of Pakistan to conduct the Punjab Assembly elections",
+  "evidence": "On 8 April 2023, several people tweeted falsely that the Ministry of Finance had released 10 billion rupees for the Election Commission of Pakistan to hold the Punjab Assembly elections",
+  "label": 0
+ },
+ {
+  "Claim": "A mosque appeared in an Algerian desert after a sandstorm.",
+  "evidence": "Images do not show an Algerian mosque revealed after a sandstorm",
+  "label": 0
+ },
+ {
+  "Claim": "Mohsin Dawar, chair of the National Democratic Movement, was killed after his car was fired upon while he was on his way to Islamabad from Peshawar.",
+  "evidence": "Reports claiming that Member National Assembly Mohsin Dawar and his colleagues faced an assassination attempt on their way to Peshawar from Islamabad have been doing the rounds on social media, but the lawmaker’s colleagues have declared them false.",
+  "label": 0
+ },
+ {
+  "Claim": "Asle Toje has said that Indian Prime Minister Narendra Modi is the biggest contender for the Nobel Peace Prize.",
+  "evidence": "While Toje praised India and Modi in different interviews, he did not endorse the Indian prime minister as the biggest contender for the Nobel Peace Prize",
+  "label": 0
+ },
+ {
+  "Claim": "Photos show former US president Donald Trump being arrested in New York.",
+  "evidence": "On 21 March 2023, Twitter user @yoncecapital posted a fake photo of claiming that it shows former US president Donald Trump being arrested in New York",
+  "label": 0
+ },
+ {
+  "Claim": "Imran Khan “escaping” arrest at his Zaman Park residence in Lahore by climbing out through a ladder",
+  "evidence": "The photo in which the imran is injured in Nab Custody is unrelated to 9 May incident .",
+  "label": 0
+ },
+ {
+  "Claim": "three different PTI workers allegedly injured during clashes with the police in Lahore on 8 March 2023",
+  "evidence": "The picture in the centre about three PTI workers allegedly injured from 2014 and is unrelated to the PTI.",
+  "label": 0
+ },
+ {
+  "Claim": "state bank of pakistan discontinuing Rs PKR 5,000 NOTE",
+  "evidence": "The PKR 5,000 note will not be discontinued and the State Bank of Pakistan (SBP) has not announced the date about removing them",
+  "label": 0
+ },
+ {
+  "Claim": "People in Pakistan can get free petrol for their cars after the discovery of a grand, new petrol reserve in the Khyber Pakhtunkhwa province.",
+  "evidence": "These fake news reports claims that “huge reserves of petrol have been found in Pakistan”, as a result of which people in Pakistan will be able to fill petrol in cars for free",
+  "label": 0
+ },
+ {
+  "Claim": "a video posted on Facebook claims that a naked girl attacked the media at the 2023 Aurat March in Lahore, Pakistan.",
+  "evidence": "a naked girl did not attack media at Aurat March 2023.",
+  "label": 0
+ },
+ {
+  "Claim": "A video on social media shows Indian Prime Minister Narendra Modi criticising the Pakistani government after Imran Khan’s ouster.",
+  "evidence": "Modi did not criticise Pakistan government after Imran Khan’s ouster",
+  "label": 0
+ },
+ {
+  "Claim": "Baloch students chanting and demanding freedom from Pakistan",
+  "evidence": "ideo does not show Baloch students protesting for freedom from Pakistanas the claim is false",
+  "label": 0
+ },
+ {
+  "Claim": "Pictures in various posts claim to show recent snowfall in Islamabad",
+  "evidence": "It has not snowed in Islamabad in January 2023 so far and the recent pictures went viral are fake,",
+  "label": 0
+ },
+ {
+  "Claim": "According to a survey conducted by the Pakistan Institute of Development Economics (PIDE), half of all Pakistanis will leave Pakistan if they have a chance",
+  "evidence": "Half of Pakistanis did not say they would leave the country if they get the chance.",
+  "label": 0
+ },
+ {
+  "Claim": "five tons of frog meat was seized by the Punjab Food Authority (PFA) and Punjab Police, and two people in Lahore were arrested in connection with the case. The meat is being used at hotels and restaurants in the city as a replacement for chicken.",
+  "evidence": "Punjab Food Authority did not seize frog meat in Lahore as the claim is false.",
+  "label": 0
+ },
+ {
+  "Claim": "Canadian Government has increased the number of visas issued to people through visa lottery by 500% in 2022.",
+  "evidence": "Canada is not issuing visas through lottery as The claim is false. ",
+  "label": 0
+ },
+ {
+  "Claim": "Bilawal Bhutto-Zardari is tying the knot with Mahenoor Soomro",
+  "evidence": "”Mahenoor Soomro has denied speculations of tying the knot with Bilawal Bhutto-Zardari",
+  "label": 0
+ },
+ {
+  "Claim": "Mohenjo-Daro will likely be removed from the list of World Heritage sites.",
+  "evidence": "Mohenjo-Daro will not be removed from the UNESCO list of World Heritage sites",
+  "label": 0
+ },
+ {
+  "Claim": "28-year-old Pakistani national cricketer Usman Khan Shinwari has passed away from a heart attack while playing a cricket match",
+  "evidence": "His 46-year-old namesake, Usman Shinwari, passed away from a heart attack while playing a Corporate League match in Lahore but he was not a national cricketer",
+  "label": 0
+ },
+ {
+  "Claim": "A video of a grand birthday party that had gone viral on social media is from Bakhtawar Bhutto Zardari’s son’s birthday",
+  "evidence": "The viral video is not from Bakhtawar Bhutto Zardari’s son’s birthday but from a birthday in Sialkot.",
+  "label": 0
+ },
+ {
+  "Claim": "Video show giant waves destroying Emaar apartments in Karachi",
+  "evidence": "Video does not show giant waves destroying Emaar apartments in Karachi",
+  "label": 0
+ },
+ {
+  "Claim": "Actor Johnny Depp participated in an Ashura ritual in Karbala, Iraq on 10 Muharram of Islamic calendar",
+  "evidence": "The man seen in the viral video in Ashura ritual in Karbala is not Johnny Depp but, in fact, Iranian model Amin Sal’es",
+  "label": 0
+ },
+ {
+  "Claim": "A video has been circulating on Facebook that is captioned “A beautiful rendition of the Azaan in India’s biggest talent show”.",
+  "evidence": "This is a doctored video with a fake background that reads “Britain’s Got Talent” and clips of Indian celebrities have been edited into the video from Indian talent shows.",
+  "label": 0
+ },
+ {
+  "Claim": "Imtiaz Supermarket in Gulshan-e-Iqbal, Karachi may collapse at any moment due to deterioration caused by the recent heavy monsoon rainfall",
+  "evidence": "Claims that the basement of Imtiaz Supermarket in Gulshan-e-Iqbal is likely to collapse are false",
+  "label": 0
+ },
+ {
+  "Claim": "Suzuki has decided to discontinue the GS150 motorcycle in Pakistan and launch a new motorcycle with a 125cc engine.",
+  "evidence": "Suzuki has not announced any plans to discontinue the GS150 motorcycle in Pakistan and launch a new 125cc motorcycle.",
+  "label": 0
+ },
+ {
+  "Claim": "National University of Modern Languages issued a notification stating that tea will be replaced by local drinks",
+  "evidence": "The National University of Modern Languages is not replacing tea with local drinks at university cafes. ",
+  "label": 0
+ },
+ {
+  "Claim": "The government has increased payments under the Ehsaas program",
+  "evidence": "The government has not increased payments under the Ehsaas program",
+  "label": 0
+ },
+ {
+  "Claim": "Lay’s chips sold in Pakistan contain a food additive derived from pork, making them unsuitable for Muslims.",
+  "evidence": "Lay’s Pakistan’s chips contain the additive E631, which is derived from plants not animal fat so the chips do not contain any pork",
+  "label": 0
+ },
+ {
+  "Claim": "Any US dollar notes below year 2021 will not be acceptable from January 2023",
+  "evidence": "The US is not discontinuing the use of US dollar bills printed before 2021 from January 2023 onwards",
+  "label": 0
+ },
+ {
+  "Claim": "Peshawar’s Islamia College University lecturer Dr Bashir Ahmad was killed over a blasphemy allegation",
+  "evidence": "On 19 February 2023, Twitter account @DayWithNews posted this wrong and fake tweet (archive) claiming that Dr Bashir Ahmad, a lecturer at the Department of English of Peshawar’s Islamia College University, was shot dead over alleged blasphemy. ",
+  "label": 0
+ },
+ {
+  "Claim": "A top education officer has issued a ban on co-education in Chakwal schools",
+  "evidence": "The Deputy District Education Officer (M-EE) for Chakwal did issue a notification on the “prohibition of co-education in government schools at elementary level” in Chakwal but this notification was cancelled by the DC Office Chakwal shortly afterward, prior to the article being published",
+  "label": 0
+ },
+ {
+  "Claim": "A child in the Pashtoon Abad neighbourhood of Quetta, the capital of Pakistan’s Balochistan province, died due to the oral polio vaccine (OPV) administered to her in September 2022.",
+  "evidence": "Child in Quetta died due to pneumonia not polio vaccine. ",
+  "label": 0
+ },
+ {
+  "Claim": "Hospitals across the country have stopped treating patients on Sehat Cards, following Imran Khan’s removal from office.",
+  "evidence": "the national health insurance program, known as the Sehat Card by Pakistan Tehreek-e-Insaf government, has not been suspended in any part of Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "people not to consume beef, loose milk, and yoghurt due to the Lumpy Skin Disease Virus LSDV that has infected cattle in Karachi and can transmit to humans, causing blisters",
+  "evidence": "There is no risk to humans in consuming beef and dairy products, provided standard precautions are taken when handling and cooking meat.",
+  "label": 0
+ },
+ {
+  "Claim": "A video shows an Indian aeroplane making an emergency landing at an airport in Pakistan.",
+  "evidence": "The video was uploaded in September 2022 by YouTube channel BBB-Gaming, which flagged it as a “flight simulation” and “not real”",
+  "label": 0
+ },
+ {
+  "Claim": "The Pink Peoples Bus Service in Karachi, Sindh, is the first women-only bus service in Pakistan",
+  "evidence": "Sindh’s Pink Bus Service is not the first-ever bus service for women in Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "social media post claims that PTI leader Shaukat Tarin had been arrested by the FIA.",
+  "evidence": "Shaukat Tarin was not arrested by the Federal Investigation Agency but he has been charged and may be taken into custody in the near future.",
+  "label": 0
+ },
+ {
+  "Claim": "WHO guidelines on brain stroke claim 7 “biggest brain damaging habits”",
+  "evidence": "Viral WHO guidelines about chances of brain stroke are false and not issued by WHO",
+  "label": 0
+ },
+ {
+  "Claim": "Maryam Nawaz say PTI supporters are jealous of her beauty",
+  "evidence": "Maryam Nawaz did not say PTI supporters are jealous of her beauty",
+  "label": 0
+ },
+ {
+  "Claim": "A lecturer, Dr Bashir Ahmad at the Islamia College University (ICU) in Peshawar, who was shot dead on 19 February 2023,",
+  "evidence": " Twitter account @DayWithNews posted this wrong and fake tweet (archive) claiming that Dr Bashir Ahmad, a lecturer at the Department of English of Peshawar’s Islamia College University, was shot dead over alleged blasphemy.",
+  "label": 0
+ },
+ {
+  "Claim": "The eighth edition of the Pakistan Super League (PSL) has been postponed following an attack on the Karachi police chief’s office on 17 February 2023. The Asia Cup cricket tournament is moving out of Pakistan.",
+  "evidence": "The Pakistan Super League has not been postponed after the Karachi Police Office attack",
+  "label": 0
+ },
+ {
+  "Claim": "Salman Ahmad of Junoon has been arrested recently.",
+  "evidence": "Salman Ahmed of Junoon was not arrested recently as Old videos of him being arrested were shared out of context",
+  "label": 0
+ },
+ {
+  "Claim": "Miftah Ismail said the military helped remove imran khan from power, and elections should be held within 90 days.",
+  "evidence": " The electoral commission says electoral boundaries must be redrawn to reflect fresh census data, a months-long process. Last week, former prime minister Imran Khan was arrested and jailed, and then barred from politics for five years.",
+  "label": 0
+ },
+ {
+  "Claim": "A PTI worker hanging out the window of a van with a weapon in his hand during the recent rally on 8 March in Lahore.",
+  "evidence": "The image is doctored; the man pictured is not holding a weapon. Moreover, the picture is from a 2014 PTI protest in Islamabad.",
+  "label": 0
+ },
+ {
+  "Claim": "A viral social media post claims that PTI leader Shaukat Tarin had been arrested by the FIA.",
+  "evidence": "Shaukat Tarin was not arrested by the Federal Investigation Agency but he has been charged and may be taken into custody in the near future.",
+  "label": 0
+ },
+ {
+  "Claim": "A photo shows the DG ISI Nadeem Anjum attending the funeral of former Pakistani president and military dictator General Pervez Musharraf.",
+  "evidence": "The photo which claim that DG ISI attended funeral of General Pervez Musharraf January 2023 is misleading as it is the photo in which the DG ISI attended the funeral prayers of two martyred officers of the Punjab Counter-Terrorism Department.",
+  "label": 0
+ },
+ {
+  "Claim": "Neo News reported that PMLN leader Shahid Khaqan Abbasi has quit the party.",
+  "evidence": "Shahid Khaqan Abbasi did not quit Pakistan Muslim League (N) as the news falsely claim on facebook and Twitter to announce that Shahid Khaqan Abbasi of Pakistan Muslim League – Nawaz (PMLN) had officially left the party in order to create a new one.",
+  "label": 0
+ },
+ {
+  "Claim": "Video shows TLP protest in Karachi against inflation in January 2023.",
+  "evidence": "TLP did not protest against inflation in January 2023 as the viral claim in a video is false. ",
+  "label": 0
+ },
+ {
+  "Claim": "Maulana Yousaf Jamil, the son of Pakistan’s famed television preacher Maulana Tariq Jamil, has been critically injured in a traffic accident, a photo circulating on social media shows.",
+  "evidence": "Maulana Yousaf Jamil — the son of Maulana Tariq Jamil — posted a video statement on Facebook on 3 January 2023, clarifying that he is safe and fine and has not been in any accident",
+  "label": 0
+ },
+ {
+  "Claim": "Portugal has opened a church made with the skulls of 5,000 Muslims",
+  "evidence": "Capela dos Ossos, which is not a church but a chapel, is built from the skulls of around 1,000 devoted monks, not 5,000 Muslims. ",
+  "label": 0
+ },
+ {
+  "Claim": "Russian President Vladimir Putin has converted Moscow’s Cathedral Church into a Masjid",
+  "evidence": "The posts circulating on Facebook regarding the conversion of a “Cathedral Church into Masjid” by the Russian government are false.",
+  "label": 0
+ },
+ {
+  "Claim": "According to British journalist Julia Hartley-Brewer, extreme weather events are not increasing worldwide",
+  "evidence": "Extreme weather events are increasing across the globe, especially in North America, Europe and Asia, according to the Summary for Policymakers report by the Intergovernmental Panel on Climate Change (IPCC).",
+  "label": 0
+ },
+ {
+  "Claim": "A video shows darkness suddenly engulfing a market in Dera Ismail Khan, making people run and drivers turn on their headlights.",
+  "evidence": "Clouds did not come down to the ground in Dera Ismail Khan as the video is, in fact, not from the summer 2022 monsoon season in Pakistan, nor is it from Dera Ismail Khan, Khyber Pakhtunkhwa but Balochistan. ",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan is a top destination for countries to dump their waste, with most countries opting to dispose of their waste in Pakistan.",
+  "evidence": "Contrary to posts circulating online, Pakistan is not a top destination for global waste, and neither do most countries send their waste to Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "Eating locusts boosts the immune system’s response against Covid-19",
+  "evidence": "Although locusts are high in protein, there is no evidence that any food in particular boosts immunity to the point where you are better protected against infection and disease, according to the Harvard Medical School",
+  "label": 0
+ },
+ {
+  "Claim": "The Ozone layer is recovering after a larger than usual hole formed above the Arctic in April 2020 due to a reduction in aerosol pollutants caused by Covid-19 lockdowns.",
+  "evidence": "Although fake viral claims have attributed the repairing Ozone layer to Covid-19 lockdowns, the hole in the Ozone layer formed and healed purely due to yearly meteorological events.",
+  "label": 0
+ },
+ {
+  "Claim": "Drinking lots of water and gargling a mixture of warm water, vinegar and salt can eliminate COVID-19.",
+  "evidence": "There is no evidence to support this claim that Drinking water vinegar and salt can eliminate COVID-19.",
+  "label": 0
+ },
+ {
+  "Claim": "syed murad ali shah claims \"Council of Common Interests is supposed to meet every 90 days according to the Constitution while its last meeting took place in October or November, about 10 months ago\"",
+  "evidence": "Article 154 (3) of the Constitution of Pakistan states that the Council of Common Interests “shall have a permanent Secretariat and shall meet at least once in 90 days.” The Council last gathered for a meeting on November 19, 2018. On August 18, 2019, after launching a tree plantation drive, Sindh Chief Minister, Syed Murad Ali Shah, MPA, made the following claim whilst assessing the PTI governments first year performance.",
+  "label": 1
+ },
+ {
+  "Claim": "Ms. Bakhtawar Bhutto-Zardari \"Medicinal Prices Increased Over 200% in the Last 11 Months\"",
+  "evidence": "The claim that medicine prices have gone up by 200% in the past 11 months is untrue as during the past 11 months, prices of medicines, on the average, have gone up by 9.8%",
+  "label": 0
+ },
+ {
+  "Claim": "Syed Ali Haider Zaidin claims \"Mayor Karachi, Mr. Waseem Akhtar, has not set up a complaint cell\"",
+  "evidence": "Waseem Akhtar, has, indeed set up the Karachi Metropolitan Corporation’s Citizens Complaints Information System Complaint",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan confirms its first case of mpox",
+  "evidence": "There is no evidence of localized transmission of the viral disease in Pakistan, the NIH added",
+  "label": 1
+ },
+ {
+  "Claim": "Saharanpur students  shout pro-Pakistan slogans RW handles",
+  "evidence": "There was no pro-Pakistan sloganeering in the college bus Saharanpur students",
+  "label": 0
+ },
+ {
+  "Claim": "A photograph shows musician Rihanna holding the flag of Pakistan.",
+  "evidence": "In the genuine photograph, Rihanna is holding a flag in support of the West Indies team",
+  "label": 0
+ },
+ {
+  "Claim": "Donald Trump was born 'Dawood Ibrahim Khan' in Pakistan.",
+  "evidence": "Donald trump was born on 14 June 1946 in Queens, New York (not Pakistan), and he was named Donald John Trump not Dawood Ibrahim Khan",
+  "label": 0
+ },
+ {
+  "Claim": "President Trump has signed visa-free travel policies for residents of a number of different countries",
+  "evidence": "The web site USA Television capitalized on that controversy by pumping out a series of nearly identical fake news articles, each holding that President Trump had \"signed a visa-free travel policy\" for residents of a given country, ostensibly to \"strengthen trade\" with that country which is totally a fake and incorrect news.",
+  "label": 0
+ },
+ {
+  "Claim": "Dr Uzma Khan’s land in Layyah worth Rs6 billion",
+  "evidence": "The current market price of 5,261 kanals of land in the Chaubara area of Layyah is approximately Rs131 million to Rs 500 million not Rs6 billion, several real estate agents, government officials and residents in the area",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistani parliamentarians travel for Hajj on June 25 using public funds",
+  "evidence": "The lawmakers, who travelled to Saudi Arabia for Hajj on June 25, paid for their own airfare and didn't use public funds, a senior official of the state-owned Pakistan International Airlines (PIA), which arranged the special flight, confirmed.",
+  "label": 0
+ },
+ {
+  "Claim": "ABP News shows terrifying visuals of torrential rainfall and extreme winds in Karachi ahead of cyclone Biparjoy",
+  "evidence": "The AFP news shows a terrifying misleading video of torrential rainfall that do not reflect the actual weather conditions in Karachi before or during the cyclone Biparjoy",
+  "label": 0
+ },
+ {
+  "Claim": "Muslim rioter stationed as a sniper on top of a building in Paris amid the recent France riots that erupted over the police killing of an Algerian teenage boy",
+  "evidence": "A misleading video went viral that falsely shows a Muslim sniper during 2023 France riots",
+  "label": 0
+ },
+ {
+  "Claim": "Viral image shows a 9-year-old Hindu girl Reshma who was forcibly abducted, taken to a Sufi shrine, converted to Islam and married to a 45-year-old Muslim man from Jacobabad named Wazir Hussain",
+  "evidence": "The 9-year-old Hindu girl Reshma in the viral image was saved from a child marriage marriage by the Kashmore police but was not abducted not abducted and forcefully converted from Hinduism to Islam",
+  "label": 0
+ },
+ {
+  "Claim": "Chatbots such as ChatGPT and Google BARD can generate valid activation keys for Windows 10 and 11 operating systems.",
+  "evidence": "Chatbots such as ChatGPT and Google BARD are large language models that can generate text based on a given input but cannot produce activation keys for Microsoft Windows",
+  "label": 0
+ },
+ {
+  "Claim": "Hrithik Roshan support Imran Khan",
+  "evidence": "Hrithik Roshan did not voice support for Imran Khan",
+  "label": 0
+ },
+ {
+  "Claim": "A video on social media shows APTMA patron-in-chief Dr Gohar Ejaz asking Finance Minister Ishaq Dar to help and save the textile industry",
+  "evidence": "A video on social media shows APTMA patron-in-chief Dr Gohar Ejaz asking Finance Minister Ishaq Dar to help and save the textile industry is fake",
+  "label": 0
+ },
+ {
+  "Claim": "Ishaq Dar was back in the country on 25 January",
+  "evidence": "Ishaq Dar was back in the country on 25 January",
+  "label": 1
+ },
+ {
+  "Claim": "The Sharif family stole expensive cutlery from a Saudi hotel, says the hotel’s management",
+  "evidence": "The tweet was written in Urdu and condemned the Sharif family and their supporters over the alleged theft of expensive cutlery from a Saudi hotel",
+  "label": 0
+ },
+ {
+  "Claim": "A video shows PML-N leader Khurram Dastgir Khan snubbing Awami National Party (ANP) leader Aimal Wali Khan by refusing to hug him during a political meeting.",
+  "evidence": "A video that purportedly shows PML-N leader Khurram Dastgir Khan snubbing ANP leader Aimal Wali Khan by refusing to hug him during a political meeting is cropped and taken out of context",
+  "label": 0
+ },
+ {
+  "Claim": "Australia ban entry of 50 Pakistani military generals",
+  "evidence": "The Australian parliament did not ban military generals from Pakistan",
+  "label": 0
+ },
+ {
+  "Claim": "PTI PP 273 candidate Mian Alamdar Qureshi  return his ticket",
+  "evidence": "PTI’s PP 273 candidate is Mian Muhammad Imran and he did not return his ticket",
+  "label": 0
+ },
+ {
+  "Claim": "Pakistan passes law making two marriages for men mandatory",
+  "evidence": "A false claim that on January 1, 2021, a new law took effect in Pakistan requiring men to have two marriages mandatory has been viewed more than 5 million times on TikTok",
+  "label": 0
+ },
+ {
+  "Claim": "Islamist militants kill six at energy plant in Pakistan",
+  "evidence": "police confirmed Islamist militants stormed natural gas and oil production energy plant in northwest Pakistan on Tuesday, killing six people",
+  "label": 1
+ },
+ {
+  "Claim": "China, Pakistan, Iran hold counter-terrorism talks in Beijing",
+  "evidence": "China, Pakistan and Iran held their first trilateral meeting on counter-terrorism in Beijing on Wednesday, the Chinese foreign ministry said in a statement",
+  "label": 1
+ },
+ {
+  "Claim": "For satisfying IMF, Pakistan to present budget amid economic",
+  "evidence": "Pakistan's government will present its annual budget to parliament on Friday needing to satisfy the IMF to have any chance of securing the release or more bailout money",
+  "label": 1
+ },
+ {
+  "Claim": "Hundreds rally in Pakistan-ruled Kashmir against India G20 meet - Reuters",
+  "evidence": "Several protesters demonstrated in Muzaffarabad, capital of Pakistan-administered Kashmir, and other cities, chanting: \"Go India go back and boycott, boycott G20 boycott!\" , said the official Raja Azhar Iqbal",
+  "label": 1
+ },
+ {
+  "Claim": "President of former Pakistani prime minister Imran Khan's party arrested in Lahore",
+  "evidence": "The President of former Pakistani prime minister Imran Khan's party was arrested in the eastern city of Lahore on Thursday on charges of corruption, a government official said",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan faces last IMF board review before passing crucial budget",
+  "evidence": "Pakistan can have only one and last remaining board review under the current bailout package of the IMF before its budget is unveiled on June 9, itself a step towards a successful review, a Fund official said on Thursday",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan GDP growth seen at 0.29% in fiscal year 2023 - economic survey",
+  "evidence": "29% in the fiscal year ending June 2023, the country's economic survey released on Thursday said, well below the target of 5% set last year",
+  "label": 1
+ },
+ {
+  "Claim": "Fourteen suspects arrested in Pakistan over Greece boat disaster",
+  "evidence": "Pakistani authorities have arrested Fourteen people in connection with the alleged trafficking of several migrants who drowned last week after their overloaded boat capsized in the sea off Greece, police said",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan PM says first discounted Russian crude oil cargo arrives",
+  "evidence": "Pakistan's Prime Minister Shehbaz Sharif on Sunday said the first cargo of discounted Russian crude oil arranged under a new deal struck between Islamabad and Moscow had arrived in Karachi",
+  "label": 1
+ },
+ {
+  "Claim": "Imran Khan’s political games leave him isolated as Pakistan army destroys party",
+  "evidence": "Pakistan is considering banning former Prime Minister Imran Khan’s party for attacking the state, says the defence minister, a decision likely to enrage his supporters and exacerbate his confrontation with the military establishment",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan media decry de facto ban on giving airtime to Imran Khan",
+  "evidence": "Broadcast journalists in Pakistan have decried a de facto ban on mentioning or giving airtime to Imran Khan by name or showing his image after a series of directives issued by the country’s media regulator",
+  "label": 1
+ },
+ {
+  "Claim": "‘I like being different’: Amina Hanif on playing football with the hijab",
+  "evidence": "Amina Hanif further said “I like being different – the hijab means I stand out on the pitch more",
+  "label": 1
+ },
+ {
+  "Claim": "Boat that sank off Greek coast had not moved for hours, data suggests",
+  "evidence": "Tracking data suggests an overcrowded fishing boat that sank off the Greek coast last week with the feared loss of hundreds of lives had not moved for several hours before it capsized, contradicting accounts from the Hellenic coast guard",
+  "label": 1
+ },
+ {
+  "Claim": "Shootout in northwest Pakistan, along Afghan border, kills 3 soldiers, 3 militants, army says",
+  "evidence": "Pakistan's army says militants attacked a security checkpoint in the country's northwest triggering a shootout that 3 soldiers and 3 dead",
+  "label": 1
+ },
+ {
+  "Claim": "I literally cannot say Imran Khan’s name on Pakistani TV – this madness has to end | Hamid Mir",
+  "evidence": "Hamid Mir further said we are no longer allowed to mention his name or show his picture on Pakistani TV channels",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan may not play in the World Cup in India if it loses Asia Cup , the PCB chief has said",
+  "evidence": "Pakistan may not play in the World Cup in India if it loses Asia Cup hosting rights",
+  "label": 1
+ },
+ {
+  "Claim": "At least 11 killed in Pakistan avalanche",
+  "evidence": "Police confirmed at least 11 killed including one women and four children in the disaster near the Shounter Pass in northern Pakistan,",
+  "label": 1
+ },
+ {
+  "Claim": "at least 25 killed as heavy rains hit Pakistan",
+  "evidence": "Police confirmed at least 11 killed including one women and four children in the disaster near the Shounter Pass in northern Pakistan,",
+  "label": 1
+ },
+ {
+  "Claim": "Asian Americans are at high risk for diabetes",
+  "evidence": "Asian Americans and Pacific Islanders have higher rates of diabetes than whites, and are prone to developing Type 2 diabetes at younger ages",
+  "label": 1
+ },
+ {
+  "Claim": "China and Saudi Arabia boycott G20 meeting held by India in Kashmir",
+  "evidence": "India’s presidency of the G20 group of leading nations has become mired in controversy China and Saudi Arabia boycotted a meeting staged in Kashmir",
+  "label": 1
+ },
+ {
+  "Claim": "Lahore is in the top 20 Cities With the Worst Air Pollution Worldwide",
+  "evidence": "The city with the highest air pollution levels last year was Lahore in Pakistan",
+  "label": 1
+ },
+ {
+  "Claim": "100,000 evacuated as cyclone threatens India and Pakistan",
+  "evidence": "More than 100,000 people had been evacuated in India and Pakistan ahead of the expected landfall Thursday of a fierce cyclone which could devastate homes and tear down power lines",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan PM Sharif requests IMF release $1.1bn tranche",
+  "evidence": "The government of Pakistan PM Sharif has made yet another appeal to the International Monetary Fund (IMF) to release the $1",
+  "label": 1
+ },
+ {
+  "Claim": "defence minister says Pakistan considering banning Imran Khan’s party",
+  "evidence": "Pakistan is considering banning former Prime Minister Imran Khan’s party for attacking the state, says the defence minister, a decision likely to enrage his supporters and exacerbate his confrontation with the military establishment",
+  "label": 1
+ },
+ {
+  "Claim": "Soldiers among four killed in northwest Pakistan suicide bombing",
+  "evidence": "A suicide bomber has targeted a security checkpoint in northwestern Pakistan, killing four people including two soldiers, a policeman and a civilian , security officials said",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan sixteen civilians face military trial over Khan arrest protests",
+  "evidence": "A court in the eastern Pakistani city of Lahore has handed 16 civilians to the military for trial over their suspected involvement in violent protests this month following the arrest of former Prime Minister Imran Khan",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan ex-PM Imran Khan accused in lawyer murder case",
+  "evidence": "Former Pakistani Prime Minister Imran Khan has been formally named in connection with the killing of a lawyer who accused him of high treason",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan army vows to punish ‘planners’ of violent protests",
+  "evidence": "The Pakistani military has vowed to punish the “planners and masterminds” of the violence that erupted last month after former Prime Minister Imran Khan’s brief arrest in a corruption case led to widespread unrest",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistani journalist and political commentator Imran Riaz Khan being escorted out of Sialkot International Airport by a group of police officers",
+  "evidence": "Nearly two weeks ago, a short video emerged on social media showing Pakistani journalist and political commentator Imran Riaz Khan being escorted out of Sialkot International Airport by a group of police officers",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan inflation hits record for second consecutive month",
+  "evidence": "Sri Lanka, which is slowly recovering from a two-year economic crisis, posted annual inflation of 25",
+  "label": 1
+ },
+ {
+  "Claim": "Amnesty calls for global action to mitigate heatwaves in Pakistan",
+  "evidence": "A prominent human rights organisation Amnesty has issued an urgent plea for global action to protect Pakistan from extreme heat waves, saying the South Asian country is at the “frontline of the climate crisis”",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan gets first shipment of Russian crude under discount deal",
+  "evidence": "Pakistan has received its first shipment of Russian crude oil under a discounted agreement signed between the two countries in April, but experts believe it will be too soon to say if the deal will provide significant benefit to domestic consumers",
+  "label": 1
+ },
+ {
+  "Claim": "Rights, press bodies slam Pakistan crackdown on political commentators were charged with sedition earlier this week.",
+  "evidence": "Prominent rights and press bodies have expressed extreme concern and slam after several Pakistani journalists and political commentators were charged with sedition earlier this week",
+  "label": 1
+ },
+ {
+  "Claim": "Court declares Toshakhana case against Imran Khan maintainable",
+  "evidence": "A local Court Saturday upheld the maintainability of the Toshakhana case against Pakistan Tehreek-e-Insaf (PTI) Chairman Imran Khan",
+  "label": 1
+ },
+ {
+  "Claim": "LPG cylinder explosion in passenger van kills 7",
+  "evidence": "At least 7 people were killed and around 13 others injured when an LPG cylinder installed in a passenger van with around 20 onboard exploded in Bhalwal city of Sargodha district, police said on Saturday",
+  "label": 1
+ },
+ {
+  "Claim": "PMD forecasts thundershowers in Karachi",
+  "evidence": "Thundershowers will take place in Karachi during the next 24 hours, PMD forecast Saturday",
+  "label": 1
+ },
+ {
+  "Claim": "UK court slaps £1.5m fine on Altaf Hussain, other MQM leaders",
+  "evidence": "A court has issued a judgment against the current and former senior MQM leadership including Altaf Hussain and Syed Tariq Mir for nonpayment of nearly £1",
+  "label": 1
+ },
+ {
+  "Claim": "IMF meeting with PTI proves party's relevance said Raoof Hasan",
+  "evidence": "The IMF delegation meeting with PTI Chairman Imran Khan is proof of the party's importance and relevance in the country's political setup , Raoof Hasan declared on Saturday",
+  "label": 1
+ },
+ {
+  "Claim": "Govt 'approves policy' to attract $20-25bn foreign investment",
+  "evidence": "The Govt approves on Friday approved the Pakistan foreign investment Policy 2023 through the circulation of a summary, which aims to bring $20-25bn in investment, the sources said",
+  "label": 1
+ },
+ {
+  "Claim": "Police register case against sexual assault culprit caught on camera in Karachi",
+  "evidence": "The police on Friday registered a case against an unidentified suspect for allegedly attempting to sexually assault a veiled woman in the Gulistan-e-Jauhar area of Karachi, The News reported",
+  "label": 1
+ },
+ {
+  "Claim": "Arresting accused from court premises unlawful said supreme court",
+  "evidence": "The Supreme Court declared Friday that arresting an accused from the high court premises is unlawful and only deny them the right to access a competent court to safeguard his fundamental right of liberty",
+  "label": 1
+ },
+ {
+  "Claim": "SAPM takes notice of women's harassment in Islamabad",
+  "evidence": "SAPM Interior Jawad Sohrab Malik Saturday took notice of an incident of a woman's harassment in the federal capital Islamabad and summoned a report from the capital's top cop",
+  "label": 1
+ },
+ {
+  "Claim": "In detailed verdict, top court declares Imran Khan’s May 9 arrest 'unlawful'",
+  "evidence": "imran khan is alive not dead and was presented in the apex court on 11 May 2023 amid tight security",
+  "label": 1
+ },
+ {
+  "Claim": "Govt decides not to try women, underage May 9 ‘rioters’ in military courts",
+  "evidence": "The federal government has decided not to try women and underage suspects involved in attacks on civil and military installations during the violent protests in the aftermath of the arrest of Pakistan Tehreek-e-Insaf (PTI) Chairman Imran Khan on May 9",
+  "label": 1
+ },
+ {
+  "Claim": "50 dead in monsoon-related incidents in Pakistan since June 25",
+  "evidence": "\"50 deaths have been reported in different monsoon-related incidents all over Pakistan since the start of the monsoon on June 25,\" a National Disaster Management Authority (NDMA) official told AFP",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistanis arrested for travelling to Israel have relatives there",
+  "evidence": "Five Pakistanis who worked in Israel for up to seven years were arrested by the Federal Investigation Agency's (FIA) crime circle in Mirpur Khas for illegally migrating to Israel",
+  "label": 1
+ },
+ {
+  "Claim": "Greek authorities confirmed 15 Pakistanis died in Greece boat disaster",
+  "evidence": "Greek authorities confirmed that there were 15 Pakistanis among those who lost their lives in the tragic boat disaster last month through fingerprint matching and DNAs, The News reported Friday",
+  "label": 1
+ },
+ {
+  "Claim": "Mussarat Hilali becomes 2nd woman judge in Supreme Court",
+  "evidence": "Justice Hilali , the first woman chief justice of Peshawar High Court — will serve as the top court's judge for a period of three years before her retirement",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan-US relations back to normal now: PM Shehbaz",
+  "evidence": "Prime Minister Shehbaz Sharif Thursday said Pakistan desired to improve its bilateral relations with the US in diverse fields, noting that the relation between the nations were \"back to normal\"",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan urges Sweden to take legal action against man for desecrating Holy Quran",
+  "evidence": "The joint session of parliament on Thursday passed a resolution condemning the desecration of the Holy Quran in Stockholm and urged the Swedish government to take legal action against the man who burned the holy book",
+  "label": 1
+ },
+ {
+  "Claim": "Shehbaz Sharif said to ‘reversing adverse actions’ against Nawaz for Pakistan’s prosperity",
+  "evidence": "Prime Minister Shehbaz Sharif has said that it is imperative to “reversing adverse actions” taken against Nawaz Sharif for the improvement of the prevailing crises in the country",
+  "label": 1
+ },
+ {
+  "Claim": "67 more diarrhoea cases surface in Malir district, tally rises to 327",
+  "evidence": "As many as 67 more cases of diarrhoea were reported from Karachi Malir district on Thursday, taking the total number of cases to 327",
+  "label": 1
+ },
+ {
+  "Claim": "Major victory for Pakistan against India at international court about Kishanganga project:",
+  "evidence": "In a major legal victory for Pakistan against its arch-rival India, the Court of Arbitration dismissed New Delhi's objection to the global justice body's jurisdiction over the Kishanganga Hydroelectric Project",
+  "label": 1
+ },
+ {
+  "Claim": "4 dead, 14 injured as heavy rains pound Lahore for second day",
+  "evidence": "Officials in Lahore, Pakistan's second-largest city, said it had received record-breaking rainfall on Wednesday, turning roads into rivers and leaving almost 35% without electricity and water this week",
+  "label": 1
+ },
+ {
+  "Claim": "Wahab Riaz apologises for splashing bikers on flooded roads",
+  "evidence": "Wahab Riaz, who landed in a controversy for splashing bikers on flooded roads after a heavy downpour in Lahore, has issued an apology over reckless driving",
+  "label": 1
+ },
+ {
+  "Claim": "Jahangir Tareen's brother Alamgir Tareen 'commits suicide'",
+  "evidence": "In a shocking incident, Istehkam-e-Pakistan Party (IPP) chief Jahangir Tareen's brother Alamgir Tareen allegedly committed suicide by shooting himself in the head, officials and family members said Thursday",
+  "label": 1
+ },
+ {
+  "Claim": "River Chenab may experience 'exceptionally high' flood between July 8-10",
+  "evidence": "The Flood Forecasting Division (FFD) warned Thursday that heavy rainfall may lead to a \"very high to exceptionally high level\" of flooding in River Chenab between July 8-10",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan Army major martyred in Khyber gunbattle",
+  "evidence": "A Pakistan Army major embraced martyrdom during a gunbattle with terrorists in district Khyber's Shakas area, the Inter-Services Public Relations (ISPR) said Thursday",
+  "label": 1
+ },
+ {
+  "Claim": "Sindh CM orders arresting sexual assault culprit caught on camera",
+  "evidence": "Sindh Chief Minister Murad Ali Shah has ordered the authorities to arrest the man who was caught sexually assaulting a woman on camera in the Gulistan-e-Johar area of Karachi, The News reported",
+  "label": 1
+ },
+ {
+  "Claim": "Imran Khan booked in six cases including GHQ attack",
+  "evidence": "imran khan is alive not dead and was presented in the apex court on 11 May 2023 amid tight security",
+  "label": 1
+ },
+ {
+  "Claim": "Wahab Riaz earns criticism for splashing bikers in Lahore flooded roads",
+  "evidence": "Wahab Riaz, who landed in a controversy for splashing bikers on flooded roads after a heavy downpour in Lahore, has issued an apology over reckless driving",
+  "label": 1
+ },
+ {
+  "Claim": "Three soldiers martyred in North Waziristan suicide attack: ISPR",
+  "evidence": "At least three soldiers embraced martyrdom when a vehicle-borne suicide bomber exploded himself in Khyber Pakhtunkhwa's North Waziristan district, the Inter-Services Public Relations (ISPR) said on Wednesday",
+  "label": 1
+ },
+ {
+  "Claim": "EU Parliament polls observers see no signs of general elections in Pakistan this year",
+  "evidence": "Michael Gahler, the head of the Election Observation Mission (EOM) of the EU Parliament, has said that the EU may not see the signs of election in Pakistan this year “because we are not sure about the general elections in Pakistan in 2023”",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan offers India to take advantage of multibillion-dollar CPEC project",
+  "evidence": "Prime Minister Shahbaz Sharif has urged arch-rival India to take benefit of the multibillion-dollar China-Pakistan Economic Corridor (CPEC) infrastructure project instead of creating hurdles in its way",
+  "label": 1
+ },
+ {
+  "Claim": "Urban flooding alert issued for Punjab, KP and Balochistan as heavy rain hits Lahore",
+  "evidence": "The Pakistan Meteorological Department (PMD) issued on Wednesday an urban flooding warning for several parts of Khyber Pakhtunkhwa (KP), Punjab and Balochistan as the highest rainfall in decades turned Lahore into an urban swamp today",
+  "label": 1
+ },
+ {
+  "Claim": "FIA arrests 5 Pakistanis who worked in Israel for up to 7 years",
+  "evidence": "Five Pakistanis who worked in Israel for up to seven years were arrested by the Federal Investigation Agency's (FIA) crime circle in Mirpur Khas for illegally migrating to Israel",
+  "label": 1
+ },
+ {
+  "Claim": "SC moved against 29 civilians' military trials during PTI regime",
+  "evidence": "The Supreme Court (SC) was moved against the conviction of nearly 29 civilians by military courts during the government of Pakistan Tehreek-e-Insaf (PTI) Chairman Imran Khan, The News reported",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan assails Israel for raids, airstrikes on Jenin",
+  "evidence": "Pakistan has rebuked Israel for carrying out raids and airstrikes in Jenin city of occupied Palestinian territory which left at least 10 people dead and dozens injured",
+  "label": 1
+ },
+ {
+  "Claim": "Govt announces countrywide protests on July 7 against desecration of Holy Quran in Sweden",
+  "evidence": "The federal government has announced holding nationwide protests on Friday (July 7) against the recent incident of desecration of the Holy Quran in Sweden",
+  "label": 1
+ },
+ {
+  "Claim": "PTI leader Asad Qaiser ‘evades arrest’ at Peshawar High Court",
+  "evidence": "PTI leader Asad Qaiser has claimed that the police attempted to arrest him from the Peshawar High Court (PHC) despite being “granted bail” in all cases registered against him following May 9 mayhem",
+  "label": 1
+ },
+ {
+  "Claim": "GB CM Khalid Khursheed disqualified in fake degree case",
+  "evidence": "GB Chief Court Tuesday disqualified Chief Minister Khalid Khursheed a leader of the embattled Pakistan Tehreek-e-Insaf (PTI) — for holding a fake degree under Articles 62 and 63 of the Constitution of Pakistan",
+  "label": 1
+ },
+ {
+  "Claim": "Good news for Karachiites: Ferry service between Do Darya to Port Qasim proposed",
+  "evidence": "In an exciting development, a Japanese firm has proposed to start a ferry service from Karachi’s Do Dorya to Port Qasim and developing other water sports facilities in Sindh",
+  "label": 1
+ },
+ {
+  "Claim": "Use of terrorism for diplomatic point scoring must be avoided,’ Pakistan tells India",
+  "evidence": "Prime Minister of pakistan Shehbaz Sharif Tuesday advised India against using terrorism for diplomatic point scoring, saying terror activities remain a serious obstacle to peace in the region",
+  "label": 1
+ },
+ {
+  "Claim": "Canada-bound PIA flight turns back after hydraulic dysfunction",
+  "evidence": "PIA flight bound for Canada had to turn back to Pakistan midway due to a hydraulic dysfunction during the trip, The News reported",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan on ‘alert’ flood after India releases water in River Ravi",
+  "evidence": "Taking to its official Twitter handle, the disaster management authority wrote: \"As per PCIW, India has released approx 185,000 cusecs water from Ujh Barrage (River Ravi)",
+  "label": 1
+ },
+ {
+  "Claim": "Daily Jang reporter picked up from Karachi",
+  "evidence": "Syed Mohammed Askari, a senior reporter for Daily Jang, has gone missing in Karachi after he was picked up — allegedly by police and men in plain clothes — in the early hours of Sunday, his wife said",
+  "label": 1
+ },
+ {
+  "Claim": "PM Shehbaz slams Imran Khan for launching ‘malicious’ campaign against army chief",
+  "evidence": "\"Imran Khan continues to engage in a vile, sinister and malicious campaign against COAS General Syed Asim Munir",
+  "label": 1
+ },
+ {
+  "Claim": "Murtaza Wahab suggests reviving British-era wells to prevent urban flooding in Karachi",
+  "evidence": "Karachi Mayor Murtaza Wahab has proposed reviving British-era wells to protect the metropolis from urban flooding",
+  "label": 1
+ },
+ {
+  "Claim": "London court convicts PTI supporter for attacking Pakistan High Commission after May 9",
+  "evidence": "PTI has been found guilty by the Westminster Magistrates' Court of criminal damage to the Pakistan High Commission after launching a violent attack on the premises — nine days after the arrest of Imran Khan on May 9 in Islamabad",
+  "label": 1
+ },
+ {
+  "Claim": "EU paying attention to ‘crackdown on PTI’ in Pakistan: envoy",
+  "evidence": "EU Ambassador to Pakistan Dr Riina Kionka has said that the organisation comprising 27 European countries Is paying a lot of attention to the \"crackdown on the PTI and it's supporters in the aftermath of May 9\" in the country",
+  "label": 1
+ },
+ {
+  "Claim": "China warned establishment against ‘new experiment’ ahead of 2018 polls: Ahsan Iqbal",
+  "evidence": "Speaking during Geo News programme Jirga, the PML-N leader said, “China — in a diplomatic manner — had tried to convey [a message] to the then establishment to avoid any new experiment as it would derail CPEC”",
+  "label": 1
+ },
+ {
+  "Claim": "Pakistan and Switzerland ink MoU to jointly tackle natural calamity",
+  "evidence": "Pakistan and Switzerland inked MoU on disaster management to foster cooperation between the two countries to harness technology and expertise in future to jointly tackle any natural calamity",
+  "label": 1
+ },
+ {
+  "Claim": "LPG cylinder explosion in passenger van kills 7 people",
+  "evidence": "At least 7 people were killed and around 13 others injured when an LPG cylinder installed in a passenger van with around 20 onboard exploded in Bhalwal city of Sargodha district, police said on Saturday",
+  "label": 1
+ },
+ {
+  "Claim": "PMD forecasts thundershowers in Karachi",
+  "evidence": "Thundershowers will take place in Karachi during the next 24 hours, PMD forecast Saturday",
+  "label": 1
+ },
+ {
+  "Claim": "Boat sinking off Tunisia leaves 1 dead, at least 10 migrants missing",
+  "evidence": "At least 10 Tunisian migrants were missing and one died after their boat sank off Tunisia as they tried to cross the Mediterranean to Italy, a judicial official said on Sunday",
+  "label": 1
+ },
+ {
+  "Claim": "6 dead, 10 injured as gas cylinder explosion causes building to collapse in Jhelum",
+  "evidence": "At least six people lost their lives while another 10 were injured on Sunday after a three-storey private hotel located on the Grand Trunk Road in Punjab’s Jhelum collapsed due to a gas cylinder explosion, according to officials",
+  "label": 1
+ },
+ {
+  "Claim": "Six dead in private jet crash outside Los Angeles",
+  "evidence": "All six people aboard a small jet died when the aircraft crashed and burned in a field near an airport near Los Angeles on Saturday, local and federal authorities said",
+  "label": 1
+ },
+ {
+  "Claim": "Daily Jang senior reporter goes missing in Karachi after being ‘taken away by police’",
+  "evidence": "Syed Mohammed Askari, a senior reporter for Daily Jang, has gone missing in Karachi after he was picked up — allegedly by police and men in plain clothes — in the early hours of Sunday, his wife said",
+  "label": 1
+ },
+ {
+  "Claim": "PM Shehbaz condemns ‘social media campaign’ against army chief",
+  "evidence": "Taking to Twitter, the premier condemned the PTI chief, saying he has been badly exposed",
+  "label": 1
+ },
+ {
+  "Claim": "Twitter ‘relocates’ users in GB to held Kashmir",
+  "evidence": "Twitter seems to have bloc­ked access to the government of Pakistan’s official account in GB for helding kashmir and chan­ged the region’s location to parts of India, it has emerged",
+  "label": 1
+ },
+ {
+  "Claim": "Policeman who survived Greece migrant boat disaster back home",
+  "evidence": "Hundreds of migrants on board the boat that sank off southern Greece last month weren't provided with life jackets and food, even after they paid the crew $100, said one of the Pakistani survivors who has returned to the country",
+  "label": 1
+ },
+ {
+  "Claim": "Toshakhana reference ‘maintainable’, trial to begin next week",
+  "evidence": "The Election Commission of Pakistan (ECP) had, on October 21 last year, disqualified the former prime minister in the Toshakhana reference under Article 63(1)(p) of the Constitution for making \"false statements and incorrect declaration\"",
+  "label": 1
+ },
+ {
+  "Claim": "Switzerland to help improve response to natural disasters",
+  "evidence": "Pakistan and Switzerland inked MoU on disaster management to foster cooperation between the two countries to harness technology and expertise in future to jointly tackle any natural calamity",
+  "label": 1
+ },
+ {
+  "Claim": "EU considers extending Pakistan’s GSP+ status",
+  "evidence": "The European Com­m­i­s­sion has proposed extending Pakistan’s GSP+ status — which is set to expire at the end of this year — for another four years as a contingency measure",
+  "label": 1
+ },
+ {
+  "Claim": "IPP manifesto to be released next week, says Firdous Ashiq Awan",
+  "evidence": "It shows a letter purportedly written by Siraj ul Haq, the leader of Jamaat-e-Islami (JI), to his followers on February 2, 2020",
+  "label": 1
+ },
+ {
+  "Claim": "Dir residents protest construction of police lines on ‘their’ land",
+  "evidence": "Residents of Walai Kandao here area on Saturday held a demonstration against the police department for ‘grabbing’ their lands for construction of the police lines in the region",
+  "label": 1
+ },
+ {
+  "Claim": "Resistance to polio vaccination declines in KP",
+  "evidence": "Authorities have claimed a significant decline in people’s resistance to polio vaccination in the Khyber Pakhtunkhwa province",
+  "label": 1
+ },
+ {
+  "Claim": "Virgin Atlantic SALE with flights from £255 return incl. flexible booking",
+  "evidence": "The discount supermarket reported a full-year pre-tax loss of £75",
+  "label": 2
+ },
+ {
+  "Claim": "Afghan Peace Talks Resume in Doha Amid Calls to Reduce Violence",
+  "evidence": "The Taliban said they wanted travel restrictions lifted for their leaders",
+  "label": 2
+ },
+ {
+  "Claim": "De Kock questions sustainability of 'bubble' life",
+  "evidence": "Claim that Klaus Schwab’s daughter  Nicole Schwab warned of climate lockdowns is from misinformation site",
+  "label": 2
+ },
+ {
+  "Claim": "South Africa look forward to Pakistan trip but not bio-secure bubble - Reuters India",
+  "evidence": "the PCB chief has said Senior International Cricket Council (ICC) officials are set to travel to Pakistan to secure the country’s participation in this year’s 50-over World Cup in India which has been in doubt for political reasons",
+  "label": 2
+ },
+ {
+  "Claim": "\"Will Follow Prosecution Closely\": US On 26\/11 Mastermind's Arrest In Pak",
+  "evidence": "Two senior police officers, privy to the developments, have confirmed to Geo Fact Check that the man, who has been accused of stealing a peacock from a top military official’s residence, is still under investigation and has not been sentenced to 10 years",
+  "label": 2
+ },
+ {
+  "Claim": "Narendra Modi 'earned and achieved' prime ministership: Pranab Mukherjee in memoir",
+  "evidence": "”Indian Prime Minister Narendra Modi was born on September 17, 1950",
+  "label": 2
+ },
+ {
+  "Claim": "Quinton de Kock questions sustainability of 'bubble' life",
+  "evidence": "The interviewer asks Greta about her rebuttal to governments saying fighting climate change is “too expensive",
+  "label": 2
+ },
+ {
+  "Claim": "Australia is hoping Cam Green will be the answer to its all-rounder needs",
+  "evidence": "The victory has blown Pool C at the Rugby World Cup wide open",
+  "label": 2
+ },
+ {
+  "Claim": "New Zealand's rise to top began with calamity in South Africa",
+  "evidence": "South Africa's President Cyril Ramaphosa has officially launched a new border force in a bid to tighten the country's porous borders",
+  "label": 2
+ },
+ {
+  "Claim": "Alan Burgess, New Zealand first-class cricketer and World War II veteran, dies aged 100",
+  "evidence": "Yusuf Mahmud Nazir died on 23 November, eight days after he was seen at Rotherham General Hospital and sent home with antibiotics",
+  "label": 2
+ },
+ {
+  "Claim": " Proteas move up in ICC Test rankings after Sri Lanka whitewash",
+  "evidence": "A Sri Lankan cricketer accused of raping a woman while in Australia for the T20 World Cup has been found not guilty",
+  "label": 2
+ },
+ {
+  "Claim": "New Zealand become No.1 in Test cricket for first time ever",
+  "evidence": "A Sri Lankan cricketer accused of raping a woman while in Australia for the T20 World Cup has been found not guilty",
+  "label": 2
+ },
+ {
+  "Claim": "Kiwis become No.1 in Test cricket for first time ever",
+  "evidence": "The Fijians bounced back from their defeat to Wales to claim a 22-15 victory over the Aussies - their first over the Wallabies at a World Cup",
+  "label": 2
+ },
+ {
+  "Claim": "Black Caps sensation Kyle Jamieson says he's a long way off the cricketer he wants to be",
+  "evidence": "MacGill made global headlines in April 2021 after telling police he was confronted and forced into a car in the Sydney suburb of Cremorne",
+  "label": 2
+ },
+ {
+  "Claim": "Stakes high, tension builds for Australia vs India 3rd test",
+  "evidence": "The Fijians bounced back from their defeat to Wales to claim a 22-15 victory over the Aussies - their first over the Wallabies at a World Cup",
+  "label": 2
+ },
+ {
+  "Claim": "Kiwis become No.1 in Test cricket for first time ever",
+  "evidence": "The Fijians bounced back from their defeat to Wales to claim a 22-15 victory over the Aussies - their first over the Wallabies at a World Cup",
+  "label": 2
+ },
+ {
+  "Claim": "Fourth prong' Jamieson's first-rate display sinks Pakistan",
+  "evidence": "Google has not yet opened its office in Pakistan; claim made in viral images is fake",
+  "label": 2
+ },
+ {
+  "Claim": "Kiwis become No.1 in Test cricket for first time",
+  "evidence": "The Fijians bounced back from their defeat to Wales to claim a 22-15 victory over the Aussies - their first over the Wallabies at a World Cup",
+  "label": 2
+ },
+ {
+  "Claim": "Cricket-New Zealand rout Pakistan to sweep series and seal top ranking - Reuters UK",
+  "evidence": "The Fijians bounced back from their defeat to Wales to claim a 22-15 victory over the Aussies - their first over the Wallabies at a World Cup",
+  "label": 2
+ },
+ {
+  "Claim": "Cricket: Black Caps complete crushing victory over Pakistan to take World No 1 test ranking",
+  "evidence": "Babar Azam, the captain of Pakistan, fell to fifth place in the International Cricket Council (ICC) rankings after losing and dropping one position in the category for Test batsmen",
+  "label": 2
+ },
+ {
+  "Claim": "Quinton de Kock: 'Bubble life is very unsettling. I don't know how long it can last for'",
+  "evidence": "For years, I've been saying I need to do something else",
+  "label": 2
+ },
+ {
+  "Claim": "Kapil Dev Turns 62, Wishes Pour In On Social Media",
+  "evidence": "The ‘International Kabaddi Club’ Facebook page has also made a lot of posts regarding the death of Muzammil Bota",
+  "label": 2
+ },
+ {
+  "Claim": "Kyle Jamieson rips through Pakistan again as New Zealand reach top of the test cricket world",
+  "evidence": "The Fijians bounced back from their defeat to Wales to claim a 22-15 victory over the Aussies - their first over the Wallabies at a World Cup",
+  "label": 2
+ },
+ {
+  "Claim": "It's boiling away': Stage set for fiery SCG test as tension grows between Australia and India",
+  "evidence": "Prime Minister of pakistan Shehbaz Sharif Tuesday advised India against using terrorism for diplomatic point scoring, saying terror activities remain a serious obstacle to peace in the region",
+  "label": 2
+ },
+ {
+  "Claim": "Azhar Ali fights with Pakistan in a pickle",
+  "evidence": "Pakistan Prime Minister Imran Khan on Thursday, 28 February, had announced that his country will release captured Indian Air Force pilot Wing Commander Abhinandan Varthaman on Friday, 1 March, as a \"gesture of peace",
+  "label": 2
+ },
+ {
+  "Claim": "New Zealand vs Pakistan: Substitute fielder Will Young takes screamer of a catch",
+  "evidence": "Police arrested the 52-year-old, who played 44 Test matches for Australia, in Sydney on Tuesday",
+  "label": 2
+ },
+ {
+  "Claim": "Pharmacies Expect Doses Of Coronavirus Vaccine Soon - CBS Pittsburgh",
+  "evidence": "\"The US Food and Drug Administration (FDA) approved on March 29 a fourth dose of the Pfizer and Moderna Covid-19 shots for Americans 50 and older, and the US Centers for Disease Control and Prevention (CDC) says certain immunocompromised individuals may receive a fifth shot",
+  "label": 2
+ },
+ {
+  "Claim": "Outgoing US Ambassador Kenneth I Juster: ‘4 yrs of ambition, achievement US-India ties strong, positive’",
+  "evidence": "Newschecker noticed that the letter had several grammatical errors, along with the odd note, which states that US ambassador Donald Blome, described as the only authority Khan could trust, will “supervise the terms and conditions”, raising our doubts",
+  "label": 2
+ },
+ {
+  "Claim": "50000 Front Line Workers On Long Island Have Been Vaccinated - CBS New York",
+  "evidence": "Social media posts claim  falsely claim US government workers and pharmaceutical company staff are exempted from Covid-19 vaccination requirements",
+  "label": 2
+ },
+ {
+  "Claim": "January 8, 1981, Forty Years Ago: NAM diplomacy",
+  "evidence": "More than 50 years since the last American soldier left Vietnam, Mr Biden travelled to Hanoi to sign the agreement that will bring the former foes closer than ever before",
+  "label": 2
+ },
+ {
+  "Claim": "Florida doctor could be first to die from COVID vaccine - Capital Gazette",
+  "evidence": "Florida government has not taken steps to ban COVID-19 vaccines and brand them as bioweapons",
+  "label": 2
+ },
+ {
+  "Claim": "Are we heading for a K2 calamity? 70 climbers are racing for the summit in winter",
+  "evidence": "A well-known Top Norwegian climber has denied accusations that her team climbed over an dying guide on k2 during a bid to break a world record",
+  "label": 2
+ },
+ {
+  "Claim": "Toxic air in India linked to large number of miscarriages - Reuters",
+  "evidence": "The city with the highest air pollution levels last year was Lahore in Pakistan",
+  "label": 2
+ },
+ {
+  "Claim": "How they rated: Black Caps' stars and under-performers from their summer test sweep",
+  "evidence": "The Black Stars were also seen wearing their official outfits in pictures taken by AFP at a training camp in Doha and during the team's opening match against Portugal",
+  "label": 2
+ },
+ {
+  "Claim": "Build gallows if you can prove the extortion charge: Abhishek Banerjee to BJP",
+  "evidence": "The post purportedly made by Bageshwar Dham Sarkar’s Facebook handle shared an URL link below and asks the users to click on the link to avail the benefits of this free money said to be distributed by Bageshwar Dham Sarkar",
+  "label": 2
+ },
+ {
+  "Claim": "UNICEF USA BrandVoice: Yes, Some Good Things Happened In 2020",
+  "evidence": "he claim also went viral in Nigeria, India and Sri Lanka",
+  "label": 2
+ },
+ {
+  "Claim": "Donald Trump Jr. slammed transgender athletes at rally before D.C. riots",
+  "evidence": "In a string of now deleted posts, the account claimed his father had died and directed a racial slur at President Joe Biden",
+  "label": 2
+ },
+ {
+  "Claim": "What Has Not Changed in U.S.-China Relations",
+  "evidence": "The governments of President Xi and President Biden have been disagreeing on what seems like an ever-increasing number of issues; ranging from Ukraine, to coronavirus, and Taiwan, to Tiktok, and semiconductors",
+  "label": 2
+ },
+ {
+  "Claim": "Indore incident where Munawar Faruqui was apprehended by a group of men and handed over to police must be one of god’s  NotInMyName moments",
+  "evidence": "A photo of dozens of men praying on neighbouring rooftops has been shared hundreds of times on Facebook and Twitter alongside a claim it shows Muslim worshippers in India praying together in defiance of the country’s COVID-19 lockdown",
+  "label": 2
+ },
+ {
+  "Claim": "Biden and Congress Must Repeal Law Authorizing Endless Wars",
+  "evidence": "President Arif Alvi did not sign new national security laws",
+  "label": 2
+ },
+ {
+  "Claim": "Dialogue, not coercive measures, the way forward: Mehbooba Mufti",
+  "evidence": "Anthony Fauci did not indicate at any point in a 90-second comment that lockdowns should be used as a tool of coercion",
+  "label": 2
+ },
+ {
+  "Claim": "When China breaks rules, we have to be very robust and clear: French diplomat",
+  "evidence": "Washington and Beijing should communicate “directly” on concerns about specific economic practices, US Treasury Secretary Janet Yellen said on Saturday, urging greater cooperation between the world’s two biggest economies despite fraught ties",
+  "label": 2
+ },
+ {
+  "Claim": "Satya Paul, who introduced Indian fashion to bold prints, neon colours, dies",
+  "evidence": "In fact, four of the pictures show Pakistani soldier Samia Rehman, who took part in a UN peacekeeping mission in Congo before becoming an actress, while one photo shows Indian policewoman Usharani Narendra, who was recruited in 1973",
+  "label": 2
+ },
+ {
+  "Claim": "Patrick Byrne: Georgia election data flowed to China and Islamabad, then back to Georgia",
+  "evidence": "John Ratcliffe, director of national intelligence, wrote in a memo that intelligence analysts failed to capture the full extent to which China interfered in the election",
+  "label": 2
+ },
+ {
+  "Claim": "This is the world's most powerful passport",
+  "evidence": "The service fee for a new or renewal of a Pakistani passport has not been increased to 70,000",
+  "label": 2
+ },
+ {
+  "Claim": "Air Pollution Linked To Increased Risk Of Pregnancy Loss In India: Study",
+  "evidence": "The city with the highest air pollution levels last year was Lahore in Pakistan",
+  "label": 2
+ },
+ {
+  "Claim": "France reaches out to India following CAI with China",
+  "evidence": "India says it has lodged a \"strong protest\" with China over a new map that lays claim to its territory",
+  "label": 2
+ },
+ {
+  "Claim": "Brenden Varma (GA President Spokesperson) on Adoption of Regular Budget, United States President-Elect Joe Biden, Pakistan, Niger, World Braille Day, Brian Urquhart",
+  "evidence": "Check Your Fact debunked a claim in October 2020 that alleged Nigeria’s government gave then-U",
+  "label": 2
+ },
+ {
+  "Claim": "Social Links: Internet law under Biden; new tech-laws around the world; the UK’s Endorsement Guides",
+  "evidence": "Ministers said the Monkey Haters investigation that uncovered a global monkey torture ring was a clear example of why the amendments were needed",
+  "label": 2
+ },
+ {
+  "Claim": "NIA conducts searches in narco-terror case",
+  "evidence": "The joint investigation teams (JITs) are carrying out a probe into all the cases, they added",
+  "label": 2
+ },
+ {
+  "Claim": "5 U.S. States Detect More Contagious Coronavirus Strain: CDC Finds at Least 52 Cases",
+  "evidence": "The coronavirus pandemic has claimed more than 140,000 lives in the US",
+  "label": 2
+ },
+ {
+  "Claim": "England women to make ‘historic’ trip to Pakistan",
+  "evidence": "Pakistan has not banned women from going overseas on labour visas",
+  "label": 2
+ },
+ {
+  "Claim": "Factbox: Indonesia set to free Abu Bakar Bashir, suspected of links to Bali bombings - Reuters",
+  "evidence": "In fact, the narrated text in the misleading video has been taken from a news article about Saudi sending fighters and troops to invade Yemen in 2015",
+  "label": 2
+ },
+ {
+  "Claim": "Could Mike Pence Take on Ivanka in 2024 as Republicans Try to Bounce Back From Capitol Battle?",
+  "evidence": "Pence qualified for the first Republican debate of the 2024 campaign cycle, which is set for Aug",
+  "label": 2
+ },
+ {
+  "Claim": "World map reveals the world's favourite fashion brands - and Louis Vuitton is top",
+  "evidence": "LVMH and Kering are both France-based luxury brand giants who each control some of the biggest names in luxury fashion, leather goods and jewellery",
+  "label": 2
+ },
+ {
+  "Claim": "Over 4 million COVID-19 vaccine doses from China's CNBG administered in emergency use - Reuters India",
+  "evidence": "The WHO has already given emergency use to five other vaccines made by Pfizer-BioNTech, Moderna, Johnson & Johnson, and the AstraZeneca jab being produced at sites in India and South Korea, which it counts separately",
+  "label": 2
+ },
+ {
+  "Claim": "Over 4 million COVID-19 vaccine doses from China's CNBG administered in emergency use",
+  "evidence": "The WHO has already given emergency use to five other vaccines made by Pfizer-BioNTech, Moderna, Johnson & Johnson, and the AstraZeneca jab being produced at sites in India and South Korea, which it counts separately",
+  "label": 2
+ },
+ {
+  "Claim": "Execs from Netflix, P&G, Dell, and more talk about the future of the workplace in Insider's upcoming virtual event",
+  "evidence": "Netflix said it would spend less on content this year than expected as a result of the walkout - the industry's biggest in six decades, while boss Ted Sarandos said \"we need to get this strike to a conclusion\"",
+  "label": 2
+ },
+ {
+  "Claim": "Real life mystery behind Death In Paradise - Scotland Yard, angry mob & lasagne",
+  "evidence": "\"My job was to put a dead body on a chair and make it sit straight,\" says Ravindran about his first day at work in 1972",
+  "label": 2
+ },
+ {
+  "Claim": "VIVOX voice communication not working in Pakista,VIVOX no voice communication issue",
+  "evidence": "A clip from an old interaction of Roshan with his fans has been doctored",
+  "label": 2
+ },
+ {
+  "Claim": "New Zealand's shooting star Kyle Jamieson has few equals in test cricket",
+  "evidence": "Police arrested the 52-year-old, who played 44 Test matches for Australia, in Sydney on Tuesday",
+  "label": 2
+ },
+ {
+  "Claim": "The number of Muslims in Japan is growing fast",
+  "evidence": "For the first time ever, more than one in 10 people in Japan are now aged 80 or older",
+  "label": 2
+ },
+ {
+  "Claim": "Bangladesh again asks Pakistan to apologise for 1971 genocide",
+  "evidence": "The false posts circulated online in inflation-hit Pakistan, where social media users suggested that Bangladesh had prospered since it attained independence in 1971",
+  "label": 2
+ },
+ {
+  "Claim": "No ruling yet by Pakistan court on freeing Daniel Pearl's killer",
+  "evidence": "When asked on local news channel Dawn News on Tuesday if Khan would be tried in the military court, Sanaullah replied, “Absolutely, why shouldn't he? The programme that he made to target the military installations and then had it executed, in my understanding absolutely is a case of a military court",
+  "label": 2
+ },
+ {
+  "Claim": "China 'unaware' of any Afghan deportation of Chinese on spying charges - Reuters India",
+  "evidence": "A researcher at the UK Parliament has been arrested under the Official Secrets Act, amid claims he was spying for China",
+  "label": 2
+ },
+ {
+  "Claim": "Fraud allegations fly in dispute over brain-scanning tech made famous on Netflix’s ‘Making a Murderer’",
+  "evidence": "Former crypto CEO Sam Bankman-Fried has appeared in a New York court to answer to charges that his bankrupted financial empire was \"built on lies\"",
+  "label": 2
+ },
+ {
+  "Claim": "Pakistani Court Bans Use of “Virginity Tests” in Cases Involving Sexual Violence",
+  "evidence": "Initially he was charged with multiple counts of rape, but only one count of stealthing - removing a condom without consent - proceeded to trial",
+  "label": 2
+ },
+ {
+  "Claim": "Pakistan’s Automobile Sector Witnessing a Hike of 11% YoY",
+  "evidence": "the Punjab assembly’s standing committee of cabinet on finance and development has directed that Rs989 million be spent to purchase 93 luxury car like fortuners SUV'S for bureaucrats in the province",
+  "label": 2
+ },
+ {
+  "Claim": "Why Airlines Like Qatar Airways Are Launching New International Routes, Despite COVID",
+  "evidence": "\"The skyrocketing domestic passenger traffic post Covid is a reflection of India's high growth,\" aviation minister Jyotiraditya Scindia tweeted",
+  "label": 2
+ },
+ {
+  "Claim": "‘Will walk to gallows’: Mamata Banerjee’s nephew on ‘tolabaj’ taunt - Hindustan Times",
+  "evidence": "An old video from Maharashtra where anti Pakistan slogans were raised during Ganpati Visarjan is being falsely shared as recent celebrations in the Jawaharlal Nehru University (JNU) campus",
+  "label": 2
+ },
+ {
+  "Claim": "TABLE - Pakistan reserves increase by $261 mln at $13,412.3 week ending Dec 31 - Reuters UK",
+  "evidence": "The exports to Saudi Arabia increased while other countries of the region dipped, according to data compiled by the State Bank of Pakistan",
+  "label": 2
+ },
+ {
+  "Claim": "Transcript: Closing statement of 41st GCC summit",
+  "evidence": "The 55-member bloc joins at the invitation of hosts India, one of whose key objectives while president has been to make the G20 more inclusive with greater participation of so-called Global South countries",
+  "label": 2
+ },
+ {
+  "Claim": "Why the United States should compete with China on global clean energy finance",
+  "evidence": "For the first time it shows that a majority, 55%, no longer regard China as a top-three investment priority - a place where they should spend money to grow their business",
+  "label": 2
+ },
+ {
+  "Claim": "England Women's Cricket Team To Make \"Historic\" Trip To Pakistan",
+  "evidence": "Pakistan may not play in the World Cup in India if it loses Asia Cup hosting rights",
+  "label": 2
+ },
+ {
+  "Claim": "In Kashmir, Empty Grave for Teenager Killed by Indian Forces",
+  "evidence": "Image of Indian army handing over a 7 year old Pakistani child’s dead body shared with a false claim that Pakistani army showing white flag to retrieve dead bodies of terrorists",
+  "label": 2
+ },
+ {
+  "Claim": "England Women to tour Pakistan for first time in October",
+  "evidence": "Sindh’s Pink Bus Service is not the first-ever bus service for women in Pakistan",
+  "label": 2
+ },
+ {
+  "Claim": "Pakistan court adjourns, no ruling on freeing Pearl's killer",
+  "evidence": "The trial of former prime minister Imran Khan in the Tosh­akhana reference is likely to re-commence next week after a sessions court in Islamabad ruled that the case filed by the Election Commission of Pakistan (ECP) against the PTI cha­irman was maintainable",
+  "label": 2
+ },
+ {
+  "Claim": "England told to get ready for a Sri Lanka backlash for whitewash 'hurt'",
+  "evidence": "Facebook posts have circulated in Sri Lanka claiming anyone living in the island nation who has received a Covid-19 booster jab will be exempted from a law enacted in 2020 that made mask-wearing mandatory in public places",
+  "label": 2
+ },
+ {
+  "Claim": "Lewis Gregory showcases great athleticism to complete an Elite catch against Stars",
+  "evidence": "Football in Mind, which was created in his memory, provides counsellors and avenues to players for services in the local area",
+  "label": 2
+ },
+ {
+  "Claim": "Misbah says criticism of Pakistan valid after series defeat",
+  "evidence": "Dispute over Pakistani opposition politician's arrest sparks false claims of civil war",
+  "label": 2
+ },
+ {
+  "Claim": "16-31 December 2020 Cyber Attacks Timeline",
+  "evidence": "7 million cyber attacks",
+  "label": 2
+ },
+ {
+  "Claim": "Misbah says criticism of Pakistan valid after series defeat",
+  "evidence": "Dispute over Pakistani opposition politician's arrest sparks false claims of civil war",
+  "label": 2
+ },
+ {
+  "Claim": "Pakistan court adjourns, no ruling on freeing Pearl’s killer",
+  "evidence": "The trial of former prime minister Imran Khan in the Tosh­akhana reference is likely to re-commence next week after a sessions court in Islamabad ruled that the case filed by the Election Commission of Pakistan (ECP) against the PTI cha­irman was maintainable",
+  "label": 2
+ },
+ {
+  "Claim": "How the Handbag Became the Ultimate Fashion Accessory",
+  "evidence": "This time, the collective decided to take the trend of small handbags to the extreme",
+  "label": 2
+ },
+ {
+  "Claim": "Pakistan court adjourns, no ruling on freeing Pearl's killer",
+  "evidence": "The trial of former prime minister Imran Khan in the Tosh­akhana reference is likely to re-commence next week after a sessions court in Islamabad ruled that the case filed by the Election Commission of Pakistan (ECP) against the PTI cha­irman was maintainable",
+  "label": 2
+ },
+ {
+  "Claim": "Prevalence of and factors associated with anaemia in women of reproductive age in Bangladesh, Maldives and Nepal: Evidence from nationally-representative survey data",
+  "evidence": "According to an internal assessment by civil servants, almost 200,000 more women will also face unsafe abortions",
+  "label": 2
+ },
+ {
+  "Claim": "Therapeutic plasma exchange for coronavirus disease-2019 triggered cytokine release syndrome; a retrospective propensity matched control study",
+  "evidence": "Heart inflammation linked to coronavirus vaccination is rare among young people, and occurs more commonly among those infected by COVID-19",
+  "label": 2
+ },
+ {
+  "Claim": "Musician Sunny Jain Reflects on Jainism, Jazz and the Punjabi Dhol Drum",
+  "evidence": "the person in the viral clip is Harshavardhan Jain, an Indian motivational speaker and not a Pakistani journalist",
+  "label": 2
+ },
+ {
+  "Claim": "Potemkin Parliament, Pseudo-Legislature",
+  "evidence": "On Thursday, the upper house, or the Rajya Sabha, debated the bill and passed it unanimously",
+  "label": 2
+ },
+ {
+  "Claim": "Oppo Announces Global Rollout Plan for Android 11-Based ColorOS 11 for January",
+  "evidence": "The planned update raises questions over Apple's plans for iPhone 12, which was released just three years ago, in other countries",
+  "label": 2
+ },
+ {
+  "Claim": "Government Clears Eight Hydropower Projects On Indus River In Ladakh",
+  "evidence": "Construction on the Mohmand Dam is still ongoing and is expected to be completed by the year 2026 or 2027, confirm officials",
+  "label": 2
+ },
+ {
+  "Claim": "Mandatory testing is the boost the travel industry needs",
+  "evidence": "The Home Office said its system allowed in the skills needed while encouraging investment in the domestic workforce",
+  "label": 2
+ },
+ {
+  "Claim": "The NHS, pushed to breaking point by Covid, is being privatised by stealth – we had better be ready to fight for it",
+  "evidence": "No evidence that United Kingdom is preparing for lockdown over coronavirus After Hundreds Of New Cases",
+  "label": 2
+ },
+ {
+  "Claim": "Pakistan arrests 7 Shiite militants, foils possible attacks",
+  "evidence": "Pakistan's army says militants attacked a security checkpoint in the country's northwest triggering a shootout that 3 soldiers and 3 dead",
+  "label": 2
+ },
+ {
+  "Claim": "The green munias",
+  "evidence": "Now the tenacious Antiguans and Barbudans who led the metamorphosis of the country's little known third isle of Redonda are celebrating another impressive feat",
+  "label": 2
+ },
+ {
+  "Claim": "That really affected our chances in NZ' - Misbah rues dropped catches",
+  "evidence": "Ex-Wales centre Jamie Roberts has said that Fiji's victory over Australia was the \"worst possible result\" for Wales",
+  "label": 2
+ },
+ {
+  "Claim": "Irfan Pathan feels cricketers have no right to complain about fatigue in bio-bubble",
+  "evidence": "Subsequently, Zimbabwe’s former fast bowler, Henry Olonga, took to Twitter to set the record straight, after which media outlets retracted their earlier news reports about zimbabwe Cricketer  heath streak",
+  "label": 2
+ },
+ {
+  "Claim": "Hampshire plot Kyle Jamieson signing with New Zealand fast bowler impressing on Test match stage",
+  "evidence": "The victory has blown Pool C at the Rugby World Cup wide open",
+  "label": 2
+ },
+ {
+  "Claim": "Government clears 8 hydropower projects on Indus river in Ladakh",
+  "evidence": "Construction on the Mohmand Dam is still ongoing and is expected to be completed by the year 2026 or 2027, confirm officials",
+  "label": 2
+ },
+ {
+  "Claim": "Government clears 8 hydropower projects on Indus in Ladakh",
+  "evidence": "Construction on the Mohmand Dam is still ongoing and is expected to be completed by the year 2026 or 2027, confirm officials",
+  "label": 2
+ },
+ {
+  "Claim": "Are You Accepting the Read Harder Challenge in 2021?",
+  "evidence": "The bill passed its last parliamentary stage and is awaiting Royal Assent",
+  "label": 2
+ },
+ {
+  "Claim": "Case Study Samples: Video Examples With Answers",
+  "evidence": "we conclude that those are two separate videos that are combined to form a single video fooled internet users",
+  "label": 2
+ },
+ {
+  "Claim": "The Crisis Behind the All-White Grammy Category",
+  "evidence": "Neither photo shows women winning an award for creating a \"natural body-whitening formula\"",
+  "label": 2
+ },
+ {
+  "Claim": "Javaad Alipoor on spicy Thai food, crying on planes, and the privilege of working in different places",
+  "evidence": "There are some 30,000 Thais in Israel working in agriculture, many near the Gaza border",
+  "label": 2
+ },
+ {
+  "Claim": "Contemporary Romances, a Duke, & More",
+  "evidence": "But some of his artwork, including two contrasting portraits of the late Queen, has made its way to Belfast",
+  "label": 2
+ },
+ {
+  "Claim": "Things To Check While Choosing A Pakistani Dishes",
+  "evidence": "Lay’s Pakistan’s chips contain the additive E631, which is derived from plants not animal fat so the chips do not contain any pork",
+  "label": 2
+ },
+ {
+  "Claim": "I’m Haunted by Daniel Pearl’s Murder",
+  "evidence": "\"My job was to put a dead body on a chair and make it sit straight,\" says Ravindran about his first day at work in 1972",
+  "label": 2
+ },
+ {
+  "Claim": "In Search of the Muslim Community of Ladakh",
+  "evidence": "Pakistani law prohibits Ahmadis from calling their worship places in the country as mosques",
+  "label": 2
+ },
+ {
+  "Claim": "Pakistan calls for Afghan action as soldier killed in border fire",
+  "evidence": "Afghanistan's rulers have repeatedly denied providing refuge for militants who target Pakistan",
+  "label": 2
+ },
+ {
+  "Claim": "Empty grave for Kashmir teenager killed by Indian forces",
+  "evidence": "Image of Indian army handing over a 7 year old Pakistani child’s dead body shared with a false claim that Pakistani army showing white flag to retrieve dead bodies of terrorists",
+  "label": 2
+ },
+ {
+  "Claim": "India-Pakistan border clash: bullets kill and maim people at a rate not seen in 20 years",
+  "evidence": "Afghanistan's rulers have repeatedly denied providing refuge for militants who target Pakistan",
+  "label": 2
+ },
+ {
+  "Claim": "In Kashmir, empty grave for teenager killed by Indian forces",
+  "evidence": "Image of Indian army handing over a 7 year old Pakistani child’s dead body shared with a false claim that Pakistani army showing white flag to retrieve dead bodies of terrorists",
+  "label": 2
+ },
+ {
+  "Claim": "They Are Disciplined, Caring, Central Africans On Rwandan Peacekeepers",
+  "evidence": "Mr Gachagua has, however, said that the UN Security Council approved Kenyan police to lead the multinational force to Haiti \"after thoroughly checking on the output\" of the officers",
+  "label": 2
+ },
+ {
+  "Claim": "In Kashmir, empty grave for teenager killed by Indian forces",
+  "evidence": "Image of Indian army handing over a 7 year old Pakistani child’s dead body shared with a false claim that Pakistani army showing white flag to retrieve dead bodies of terrorists",
+  "label": 2
+ },
+ {
+  "Claim": "The out-of-control line between India and Pakistan",
+  "evidence": "Following this a message which falsely claims that Google Maps has removed the Line of Control between India and Pakistan, and the Line of Actual Control between India and China started doing the rounds on social media",
+  "label": 2
+ },
+ {
+  "Claim": "In Kashmir, empty grave for teenager killed by Indian forces",
+  "evidence": "Image of Indian army handing over a 7 year old Pakistani child’s dead body shared with a false claim that Pakistani army showing white flag to retrieve dead bodies of terrorists",
+  "label": 2
+ },
+ {
+  "Claim": "In Kashmir, empty grave for teenager killed by Indian forces",
+  "evidence": "Image of Indian army handing over a 7 year old Pakistani child’s dead body shared with a false claim that Pakistani army showing white flag to retrieve dead bodies of terrorists",
+  "label": 2
+ },
+ {
+  "Claim": "In Kashmir, empty grave for teenager killed by Indian forces",
+  "evidence": "Image of Indian army handing over a 7 year old Pakistani child’s dead body shared with a false claim that Pakistani army showing white flag to retrieve dead bodies of terrorists",
+  "label": 2
+ },
+ {
+  "Claim": "This Day in History — January 7",
+  "evidence": "The clip was actually taken during a Palm Sunday procession in Guatemala in early April 2023",
+  "label": 2
+ },
+ {
+  "Claim": "The phenomenon that is reaction videos on YouTube, and in India",
+  "evidence": "Scripted videos, apparently created for entertainment, are increasingly being shared on social media as true events in India",
+  "label": 2
+ },
+ {
+  "Claim": "Falling capacity to manage",
+  "evidence": "The group said closing the 46 loss-making sites will put 810 staff at risk of redundancy",
+  "label": 2
+ },
+ {
+  "Claim": "The REAL death in paradise: The haunting story of the bizarre death that inspired it",
+  "evidence": "\" Richard Kennedy was just nine when he had a similarly unnerving experience",
+  "label": 2
+ },
+ {
+  "Claim": "The attack on the US Capitol stirs up bad memories for Indians",
+  "evidence": "Capitol brought guns onto Capitol grounds or stashed them away while staying in Washington",
+  "label": 2
+ }
+]
