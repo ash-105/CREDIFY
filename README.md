@@ -6,10 +6,10 @@ The complete  dataset is located in RECTIFY folder in excel file 'Dataset_with_e
 
 
 ## Environment:
-we perform all the experiment on Google colab with python 3.7 installed. Install 
+we perform all the experiment on Google colab with python 3.7 installed. Install the transformer library with the following command.
 
 ```python
-!pip install transformers
+!pip install transformers 
 ```
 
 
