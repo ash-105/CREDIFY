@@ -21,9 +21,23 @@ The proposed end-to-end framework CREDIFY consists of three modules : passage re
 
 We perform experiment on our  modules and compare our methodology with baseline models. The following sections describe the detail for implementing these experiments at module level.
 
-**Passage Level Evaluation** 
+**1).Passage Level Evaluation** 
 
-We also provide gold standard evidence in our dataset . The model retrieves  the top 3 passages from the evidence corpus and use MRR (Mean Reciprocal Rank) for evaluating the performance of the model. We compare the results of this model with baseline models BM25, TF-IDF, and DPR-DistilRoBERTa. The files for performing this experiment are located in folder GitHub Repositary\Experiments\Passage_level_evaluation . 
+We also provide gold standard evidence in our dataset . The model retrieves  the top 3 passages from the evidence corpus and use MRR (Mean Reciprocal Rank) for evaluating the performance . We compare the results of this model with baseline models BM25, TF-IDF, and DPR-DistilRoBERTa. The files for performing this experiment are located in folder GitHub Repositary\Experiments\Passage_level_evaluation. 
+
+**2).Veracity Level Evaluation**
+
+In this experiment, we analyze the impact of finetunning on natural language inferencing models. We compare the performance  of these models gold standard evidence sentence  and claim   by fine tunning  and without fine-tunning. The folder  \GitHub Repositary\Experiments\Veracity_level_evaluation contains this experiment. Place the original dataset in this folder before performing this experiment.  
+
+
+**3). Contrastive Data Augmentation **
+
+This contrastive augmentation technique increases the scale, capturing better insights and generalizing the patterns of negative claims. 
+
+
+
+
+
 
 
 
