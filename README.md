@@ -1,12 +1,12 @@
 # CREDIFY Framework
 This project focuses on automating the fact-checking process for verifying open-domain claims. It utilizes expert-written justification articles to verify the veracity of these claims, aiming to improve the efficiency and accuracy of fact-checking procedures.
 
-#RECTIFY Dataset
+# RECTIFY Dataset
 The complete  dataset is located in RECTIFY folder in excel file 'Dataset_with_evidences.xlsx'. The dataset consists of open-domain claims with meta-data which can be verified against expert-written justification article. We also provide seperate evidence corpus in file evidence_corpus for further analysis. 
 
 
 
-#End-to-end framework
+# End-to-end framework
 The proposed end-to-end framework CREDIFY consists of three modules : passage retrieval , sentence selection and veracity prediction. The following sections describe the detail of modules for implementing End-to-end experiment. 
 
 
